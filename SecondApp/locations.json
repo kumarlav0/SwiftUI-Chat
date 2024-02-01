@@ -1,0 +1,5722 @@
+[
+  {
+    "city": "Sun City", 
+    "name": "107th Ave & Grand", 
+    "country": "US", 
+    "longitude": -112.2901611328125, 
+    "latitude": 33.602447509765625, 
+    "store_id": 1015540
+  }, 
+  {
+    "city": "Guadalajara", 
+    "name": "Sania", 
+    "country": "MX", 
+    "longitude": -103.39347076416016, 
+    "latitude": 20.676729202270508, 
+    "store_id": 1015534
+  }, 
+  {
+    "city": "Santiago", 
+    "name": "Edificio Genesis", 
+    "country": "CL", 
+    "longitude": -70.56299591064453, 
+    "latitude": -33.40732955932617, 
+    "store_id": 1015579
+  }, 
+  {
+    "city": "Kista", 
+    "name": "Kista Galleria", 
+    "country": "SE", 
+    "longitude": 17.944242477416992, 
+    "latitude": 59.40361785888672, 
+    "store_id": 1015608
+  }, 
+  {
+    "city": "Mesa", 
+    "name": "Power Rd & Baseline Rd", 
+    "country": "US", 
+    "longitude": -111.68739318847656, 
+    "latitude": 33.37895202636719, 
+    "store_id": 1015723
+  }, 
+  {
+    "city": "Mexico DF", 
+    "name": "Copilco 20", 
+    "country": "MX", 
+    "longitude": -99.15748596191406, 
+    "latitude": 19.335411071777344, 
+    "store_id": 1015687
+  }, 
+  {
+    "city": "Marietta", 
+    "name": "Sandy Plains & Gordy", 
+    "country": "US", 
+    "longitude": -84.45985412597656, 
+    "latitude": 34.03961944580078, 
+    "store_id": 1015648
+  }, 
+  {
+    "city": "Bakersfield", 
+    "name": "Olive & Calloway", 
+    "country": "US", 
+    "longitude": -119.11137390136719, 
+    "latitude": 35.41228485107422, 
+    "store_id": 1015649
+  }, 
+  {
+    "city": "Gilroy", 
+    "name": "Camino Arroyo & Renz", 
+    "country": "US", 
+    "longitude": -121.55061340332031, 
+    "latitude": 37.00578689575195, 
+    "store_id": 1015650
+  }, 
+  {
+    "city": "Longmont", 
+    "name": "Ken Pratt and S Ken Pratt", 
+    "country": "US", 
+    "longitude": -105.10670471191406, 
+    "latitude": 40.15281677246094, 
+    "store_id": 1015722
+  }, 
+  {
+    "city": "Bethel Park", 
+    "name": "Bethel Park", 
+    "country": "US", 
+    "longitude": -80.02621459960938, 
+    "latitude": 40.33745193481445, 
+    "store_id": 1015725
+  }, 
+  {
+    "city": "Tamworth", 
+    "name": "Tamworth - Centurion Services DT", 
+    "country": "GB", 
+    "longitude": -1.6089589595794678, 
+    "latitude": 52.59644317626953, 
+    "store_id": 1015469
+  }, 
+  {
+    "city": "\u6df1\u5733\u5e02", 
+    "name": "\u6df1\u5733\u5b9d\u5b89\u4e2d\u6d32\u5e97", 
+    "country": "CN", 
+    "longitude": 113.90653228759766, 
+    "latitude": 22.57146453857422, 
+    "store_id": 1006746
+  }, 
+  {
+    "city": "Westlake", 
+    "name": "American Greetings - Corporate HQ", 
+    "country": "US", 
+    "longitude": -81.95042419433594, 
+    "latitude": 41.45820617675781, 
+    "store_id": 1007496
+  }, 
+  {
+    "city": "\u798f\u5dde\u5e02", 
+    "name": "\u798f\u5dde\u4e1c\u4e8c\u73af\u6cf0\u79be\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 119.33704376220703, 
+    "latitude": 26.089855194091797, 
+    "store_id": 1012240
+  }, 
+  {
+    "city": "\u6df1\u5733\u5e02", 
+    "name": "\u6df1\u5733\u6885\u6797\u5353\u60a6\u6c47\u5e97", 
+    "country": "CN", 
+    "longitude": 114.0603256225586, 
+    "latitude": 22.570276260375977, 
+    "store_id": 1013443
+  }, 
+  {
+    "city": "\u5e7f\u5dde\u5e02", 
+    "name": "\u5e7f\u5dde\u4e09\u5143\u91cc\u535c\u8702\u83b2\u82b1\u5e97", 
+    "country": "CN", 
+    "longitude": 113.25648498535156, 
+    "latitude": 23.16115951538086, 
+    "store_id": 1014228
+  }, 
+  {
+    "city": "\u5fb7\u9633\u5e02", 
+    "name": "\u5fb7\u9633\u6d0b\u6d0b\u767e\u8d27\u5e97", 
+    "country": "CN", 
+    "longitude": 104.38843536376953, 
+    "latitude": 31.12714385986328, 
+    "store_id": 1014320
+  }, 
+  {
+    "city": "\u627f\u5fb7\u5e02", 
+    "name": "\u627f\u5fb7\u53cc\u767e\u8d2d\u7269\u5e7f\u573a\u5496\u5561\u5e97", 
+    "country": "CN", 
+    "longitude": 117.94169616699219, 
+    "latitude": 40.96942138671875, 
+    "store_id": 1014422
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u56fd\u8d38\u56db\u5e97", 
+    "country": "CN", 
+    "longitude": 116.45756530761719, 
+    "latitude": 39.90960693359375, 
+    "store_id": 1014423
+  }, 
+  {
+    "city": "Shanghai", 
+    "name": "Grand Forest Shopping Center", 
+    "country": "CN", 
+    "longitude": 121.49186706542969, 
+    "latitude": 31.149946212768555, 
+    "store_id": 1014702
+  }, 
+  {
+    "city": "Hawally", 
+    "name": "Trolley - Hawally", 
+    "country": "KW", 
+    "longitude": 48.02016067504883, 
+    "latitude": 29.340288162231445, 
+    "store_id": 1014900
+  }, 
+  {
+    "city": "Macau", 
+    "name": "Wynn Palace BOH", 
+    "country": "CN", 
+    "longitude": 113.54393005371094, 
+    "latitude": 22.198768615722656, 
+    "store_id": 1015275
+  }, 
+  {
+    "city": "Macau", 
+    "name": "Wynn Palace", 
+    "country": "CN", 
+    "longitude": 113.54368591308594, 
+    "latitude": 22.198646545410156, 
+    "store_id": 1015276
+  }, 
+  {
+    "city": "Santa Fe", 
+    "name": "Paseo del Siglo", 
+    "country": "AR", 
+    "longitude": -60.69983673095703, 
+    "latitude": -32.95731735229492, 
+    "store_id": 1015301
+  }, 
+  {
+    "city": "Tucson", 
+    "name": "FRYS - TUCSON LS #131", 
+    "country": "US", 
+    "longitude": -110.89263153076172, 
+    "latitude": 32.25263977050781, 
+    "store_id": 1015337
+  }, 
+  {
+    "city": "Gainesville", 
+    "name": "Thompson Bridge and Brandon", 
+    "country": "US", 
+    "longitude": -83.83354949951172, 
+    "latitude": 34.32145309448242, 
+    "store_id": 1015464
+  }, 
+  {
+    "city": "Revelstoke", 
+    "name": "Revelstoke Trans Canada", 
+    "country": "CA", 
+    "longitude": -118.21629333496094, 
+    "latitude": 51.00819778442383, 
+    "store_id": 1015470
+  }, 
+  {
+    "city": "Chicago", 
+    "name": "Barry & Broadway", 
+    "country": "US", 
+    "longitude": -87.6443862915039, 
+    "latitude": 41.93730545043945, 
+    "store_id": 1015489
+  }, 
+  {
+    "city": "Caba", 
+    "name": "Bellini", 
+    "country": "AR", 
+    "longitude": -58.6495361328125, 
+    "latitude": -34.49638748168945, 
+    "store_id": 1015433
+  }, 
+  {
+    "city": "Caba", 
+    "name": "Plaza Barrientos", 
+    "country": "AR", 
+    "longitude": -57.55387878417969, 
+    "latitude": -38.02632522583008, 
+    "store_id": 1015434
+  }, 
+  {
+    "city": "Piscataway", 
+    "name": "RUTGERS UNIVERSITY TRUCK", 
+    "country": "US", 
+    "longitude": -74.43548583984375, 
+    "latitude": 40.52396011352539, 
+    "store_id": 1015450
+  }, 
+  {
+    "city": "Riyadh", 
+    "name": "Wadi Square", 
+    "country": "SA", 
+    "longitude": 46.71171951293945, 
+    "latitude": 24.770980834960938, 
+    "store_id": 1015545
+  }, 
+  {
+    "city": "TOLEDO", 
+    "name": "KROGER TOLEDO 810", 
+    "country": "US", 
+    "longitude": -83.56329345703125, 
+    "latitude": 41.71974182128906, 
+    "store_id": 1015573
+  }, 
+  {
+    "city": "\u5929\u6d25\u5e02", 
+    "name": "\u5929\u6d25\u6ee8\u6d77\u9ad8\u65b0\u533a\u5de5\u534e\u9053\u5e97", 
+    "country": "CN", 
+    "longitude": 117.12216186523438, 
+    "latitude": 39.09379577636719, 
+    "store_id": 1015694
+  }, 
+  {
+    "city": "STONY BROOK", 
+    "name": "SODEXO @ STONY BROOK U MOBILE TRUCK", 
+    "country": "US", 
+    "longitude": -73.12505340576172, 
+    "latitude": 40.9129638671875, 
+    "store_id": 1015630
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "Mall Bassura", 
+    "country": "ID", 
+    "longitude": 106.87033081054688, 
+    "latitude": -6.2245001792907715, 
+    "store_id": 1015677
+  }, 
+  {
+    "city": "Barnegat", 
+    "name": "Acme - Barnegat #7921", 
+    "country": "US", 
+    "longitude": -74.24626159667969, 
+    "latitude": 39.75949478149414, 
+    "store_id": 1015682
+  }, 
+  {
+    "city": "Izmir", 
+    "name": "Hatay", 
+    "country": "TR", 
+    "longitude": 27.101390838623047, 
+    "latitude": 38.40153884887695, 
+    "store_id": 1015688
+  }, 
+  {
+    "city": "Ageo", 
+    "name": "Ageo Futatsumiya", 
+    "country": "JP", 
+    "longitude": 139.6027374267578, 
+    "latitude": 35.98137664794922, 
+    "store_id": 1015703
+  }, 
+  {
+    "city": "AKRON", 
+    "name": "UNIVERSITY OF AKRON LIBRARY", 
+    "country": "US", 
+    "longitude": -81.51490020751953, 
+    "latitude": 41.07804870605469, 
+    "store_id": 1015710
+  }, 
+  {
+    "city": "MT. VERNON", 
+    "name": "KROGER MT. VERNON 711 - VENUE", 
+    "country": "US", 
+    "longitude": -88.94223022460938, 
+    "latitude": 38.31254959106445, 
+    "store_id": 1015712
+  }, 
+  {
+    "city": "Charlotte", 
+    "name": "HARRIS TEETER CHARLOTTE # 122", 
+    "country": "US", 
+    "longitude": -80.79535675048828, 
+    "latitude": 35.34278869628906, 
+    "store_id": 1015714
+  }, 
+  {
+    "city": "Brownstown", 
+    "name": "KROGER BROWNSTOWN 708", 
+    "country": "US", 
+    "longitude": -84.38179016113281, 
+    "latitude": 44.27285385131836, 
+    "store_id": 1015727
+  }, 
+  {
+    "city": "New Taipei City", 
+    "name": "Xintai Xinzhuang", 
+    "country": "TW", 
+    "longitude": 121.44529724121094, 
+    "latitude": 25.041236877441406, 
+    "store_id": 1015741
+  }, 
+  {
+    "city": "\u4f5b\u5c71\u5e02", 
+    "name": "\u4f5b\u5c71\u897f\u6a35\u5bcc\u76db\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 112.98518371582031, 
+    "latitude": 22.940990447998047, 
+    "store_id": 1015955
+  }, 
+  {
+    "city": "Oak Grove", 
+    "name": "McLoughlin & Concord", 
+    "country": "US", 
+    "longitude": -122.62556457519531, 
+    "latitude": 45.40866470336914, 
+    "store_id": 1007378
+  }, 
+  {
+    "city": "Austin", 
+    "name": "1st & Oltorf", 
+    "country": "US", 
+    "longitude": -97.7594985961914, 
+    "latitude": 30.242000579833984, 
+    "store_id": 1007391
+  }, 
+  {
+    "city": "\u6df1\u5733\u5e02", 
+    "name": "\u6df1\u5733\u4e1c\u6d77\u7f24\u7eb7\u5929\u5730\u5e97", 
+    "country": "CN", 
+    "longitude": 114.02059936523438, 
+    "latitude": 22.53685760498047, 
+    "store_id": 1008355
+  }, 
+  {
+    "city": "Boston", 
+    "name": "Seaport Blvd", 
+    "country": "US", 
+    "longitude": -71.04561614990234, 
+    "latitude": 42.350101470947266, 
+    "store_id": 1009368
+  }, 
+  {
+    "city": "\u897f\u5b89\u5e02", 
+    "name": "\u897f\u5b89\u672a\u592e\u5370\u8c61\u57ce", 
+    "country": "CN", 
+    "longitude": 108.9477310180664, 
+    "latitude": 34.29315948486328, 
+    "store_id": 1011769
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u4e07\u4e30\u8def\u5496\u5561\u5e97", 
+    "country": "CN", 
+    "longitude": 116.29832458496094, 
+    "latitude": 39.88175964355469, 
+    "store_id": 1012041
+  }, 
+  {
+    "city": "Belfast", 
+    "name": "Boucher-", 
+    "country": "GB", 
+    "longitude": -5.964659214019775, 
+    "latitude": 54.581546783447266, 
+    "store_id": 1012239
+  }, 
+  {
+    "city": "\u897f\u5b89\u5e02", 
+    "name": "\u897f\u5b89\u5c0f\u5be8\u767e\u76db\u5e97", 
+    "country": "CN", 
+    "longitude": 108.94612884521484, 
+    "latitude": 34.224891662597656, 
+    "store_id": 1012249
+  }, 
+  {
+    "city": "\u6606\u660e\u5e02", 
+    "name": "\u6606\u660e\u5927\u90fd\u5e97", 
+    "country": "CN", 
+    "longitude": 102.7688217163086, 
+    "latitude": 24.970502853393555, 
+    "store_id": 1013041
+  }, 
+  {
+    "city": "Anyang-si", 
+    "name": "Anyang Hogae DT", 
+    "country": "KR", 
+    "longitude": 126.95600128173828, 
+    "latitude": 37.36650848388672, 
+    "store_id": 1013310
+  }, 
+  {
+    "city": "\u8d35\u9633", 
+    "name": "\u8d35\u9633\u6c47\u91d1\u56fd\u9645\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 106.7018814086914, 
+    "latitude": 26.581689834594727, 
+    "store_id": 1013446
+  }, 
+  {
+    "city": "Ankara", 
+    "name": "Sinpas Altinoran", 
+    "country": "TR", 
+    "longitude": 32.86071014404297, 
+    "latitude": 39.871360778808594, 
+    "store_id": 1013893
+  }, 
+  {
+    "city": "Dublin", 
+    "name": "Blackrock-", 
+    "country": "IE", 
+    "longitude": -6.179051876068115, 
+    "latitude": 53.302188873291016, 
+    "store_id": 1013950
+  }, 
+  {
+    "city": "\u897f\u5b89\u5e02", 
+    "name": "\u897f\u5b89\u9ad8\u65b0\u91d1\u9e70\u5e97", 
+    "country": "CN", 
+    "longitude": 108.90133666992188, 
+    "latitude": 34.23329162597656, 
+    "store_id": 1014401
+  }, 
+  {
+    "city": "\u5e7f\u5dde\u5e02", 
+    "name": "\u5e7f\u5dde\u4e1c\u5cfb\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 113.30670166015625, 
+    "latitude": 23.13166046142578, 
+    "store_id": 1014425
+  }, 
+  {
+    "city": "Daejeon", 
+    "name": "Daejeon GasuwonDT", 
+    "country": "KR", 
+    "longitude": 127.34798431396484, 
+    "latitude": 36.30298614501953, 
+    "store_id": 1014498
+  }, 
+  {
+    "city": "Celaya", 
+    "name": "Galerias Celaya", 
+    "country": "MX", 
+    "longitude": -100.77815246582031, 
+    "latitude": 20.53165626525879, 
+    "store_id": 1014672
+  }, 
+  {
+    "city": "Decatur", 
+    "name": "KROGER - DECATUR #475", 
+    "country": "US", 
+    "longitude": -84.22801971435547, 
+    "latitude": 33.680702209472656, 
+    "store_id": 1014745
+  }, 
+  {
+    "city": "Edinburgh", 
+    "name": "Edinburgh - Leith Walk", 
+    "country": "GB", 
+    "longitude": -3.1792149543762207, 
+    "latitude": 55.96289825439453, 
+    "store_id": 1014926
+  }, 
+  {
+    "city": "Chungcheongnam-do", 
+    "name": "Cheonan IC DT", 
+    "country": "KR", 
+    "longitude": 127.16136932373047, 
+    "latitude": 36.82036590576172, 
+    "store_id": 1014939
+  }, 
+  {
+    "city": "Amman", 
+    "name": "Jordan University", 
+    "country": "JO", 
+    "longitude": 35.77840805053711, 
+    "latitude": 32.043678283691406, 
+    "store_id": 1014941
+  }, 
+  {
+    "city": "Cabinteely Dublin", 
+    "name": "Cherrywood Ireland", 
+    "country": "IE", 
+    "longitude": -6.139392852783203, 
+    "latitude": 53.24429702758789, 
+    "store_id": 1015061
+  }, 
+  {
+    "city": "Busan-si", 
+    "name": "Seomyeon NC", 
+    "country": "KR", 
+    "longitude": 129.06285095214844, 
+    "latitude": 35.15705108642578, 
+    "store_id": 1015076
+  }, 
+  {
+    "city": "Dublin", 
+    "name": "East Wall", 
+    "country": "IE", 
+    "longitude": -6.232670783996582, 
+    "latitude": 53.35695266723633, 
+    "store_id": 1015243
+  }, 
+  {
+    "city": "Parramatta", 
+    "name": "Westfield Parramatta", 
+    "country": "AU", 
+    "longitude": 151.0022735595703, 
+    "latitude": -33.8175048828125, 
+    "store_id": 1015228
+  }, 
+  {
+    "city": "Phuket", 
+    "name": "Homepro Village Phuket Chalong", 
+    "country": "TH", 
+    "longitude": 98.33914184570312, 
+    "latitude": 7.825110912322998, 
+    "store_id": 1015263
+  }, 
+  {
+    "city": "Mexico Pampanga", 
+    "name": "Petron Lakeshore", 
+    "country": "PH", 
+    "longitude": 120.69719696044922, 
+    "latitude": 15.102235794067383, 
+    "store_id": 1015279
+  }, 
+  {
+    "city": "Makati", 
+    "name": "Trevi Towers", 
+    "country": "PH", 
+    "longitude": 121.0134048461914, 
+    "latitude": 14.544502258300781, 
+    "store_id": 1015297
+  }, 
+  {
+    "city": "Koka", 
+    "name": "Koka Minakuchi", 
+    "country": "JP", 
+    "longitude": 136.18667602539062, 
+    "latitude": 34.97392654418945, 
+    "store_id": 1015411
+  }, 
+  {
+    "city": "Bahrain", 
+    "name": "The Courtyard", 
+    "country": "BH", 
+    "longitude": 50.5239143371582, 
+    "latitude": 26.214996337890625, 
+    "store_id": 1015422
+  }, 
+  {
+    "city": "Grants Pass", 
+    "name": "Parkway & Terry Lane - Grants Pass", 
+    "country": "US", 
+    "longitude": -123.30255889892578, 
+    "latitude": 42.436973571777344, 
+    "store_id": 1015488
+  }, 
+  {
+    "city": "New Britain", 
+    "name": "Central CT State University", 
+    "country": "US", 
+    "longitude": -72.77076721191406, 
+    "latitude": 41.69004821777344, 
+    "store_id": 1015532
+  }, 
+  {
+    "city": "Paranaque", 
+    "name": "SM City Bicutan", 
+    "country": "PH", 
+    "longitude": 121.0218505859375, 
+    "latitude": 14.470800399780273, 
+    "store_id": 1015537
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Songpa DT", 
+    "country": "KR", 
+    "longitude": 127.12047576904297, 
+    "latitude": 37.50651931762695, 
+    "store_id": 1015577
+  }, 
+  {
+    "city": "Edmond", 
+    "name": "Kelly and Danforth", 
+    "country": "US", 
+    "longitude": -97.49659729003906, 
+    "latitude": 35.66805648803711, 
+    "store_id": 1015642
+  }, 
+  {
+    "city": "Las Vegas", 
+    "name": "Sahara & Rye", 
+    "country": "US", 
+    "longitude": -115.1856460571289, 
+    "latitude": 36.14413833618164, 
+    "store_id": 1015643
+  }, 
+  {
+    "city": "Cheyenne", 
+    "name": "Yellowstone and Storey - Cheyenne", 
+    "country": "US", 
+    "longitude": -104.82898712158203, 
+    "latitude": 41.17418670654297, 
+    "store_id": 1015656
+  }, 
+  {
+    "city": "Edmonton", 
+    "name": "Currents of Windermere", 
+    "country": "CA", 
+    "longitude": -113.60601806640625, 
+    "latitude": 53.435218811035156, 
+    "store_id": 1015666
+  }, 
+  {
+    "city": "Chestnut Hill", 
+    "name": "The Mall at Chestnut Hill", 
+    "country": "US", 
+    "longitude": -71.17575073242188, 
+    "latitude": 42.321231842041016, 
+    "store_id": 1015548
+  }, 
+  {
+    "city": "Incheon", 
+    "name": "Incheon Seochang", 
+    "country": "KR", 
+    "longitude": 126.74990844726562, 
+    "latitude": 37.423797607421875, 
+    "store_id": 1015616
+  }, 
+  {
+    "city": "San Fernando", 
+    "name": "South Park San Fernando", 
+    "country": "TT", 
+    "longitude": -61.44532012939453, 
+    "latitude": 10.290640830993652, 
+    "store_id": 1015621
+  }, 
+  {
+    "city": "Saint Paul", 
+    "name": "Kowalski's - St. Paul", 
+    "country": "US", 
+    "longitude": -93.15360260009766, 
+    "latitude": 44.940067291259766, 
+    "store_id": 1015668
+  }, 
+  {
+    "city": "Irving", 
+    "name": "TARGET IRVING T-1032", 
+    "country": "US", 
+    "longitude": -96.95887756347656, 
+    "latitude": 32.913848876953125, 
+    "store_id": 1015669
+  }, 
+  {
+    "city": "INMAN", 
+    "name": "INGLES INMAN 200", 
+    "country": "US", 
+    "longitude": -82.00172424316406, 
+    "latitude": 35.06485366821289, 
+    "store_id": 1015670
+  }, 
+  {
+    "city": "Montclair", 
+    "name": "Holt & Ramona", 
+    "country": "US", 
+    "longitude": -117.70751190185547, 
+    "latitude": 34.06364059448242, 
+    "store_id": 1015674
+  }, 
+  {
+    "city": "Fishers", 
+    "name": "Kroger-Fishers, IN #895", 
+    "country": "US", 
+    "longitude": -85.9997787475586, 
+    "latitude": 39.95713424682617, 
+    "store_id": 1015675
+  }, 
+  {
+    "city": "RICHFIELD", 
+    "name": "LIN'S RICHFIELD", 
+    "country": "US", 
+    "longitude": -112.0848159790039, 
+    "latitude": 38.76454162597656, 
+    "store_id": 1015713
+  }, 
+  {
+    "city": "Kansas City", 
+    "name": "Hy Vee - Kansas City 3", 
+    "country": "US", 
+    "longitude": -94.64148712158203, 
+    "latitude": 39.21141052246094, 
+    "store_id": 1015717
+  }, 
+  {
+    "city": "San Antonio", 
+    "name": "W Hildebrand & Fredricksburg", 
+    "country": "US", 
+    "longitude": -98.52747344970703, 
+    "latitude": 29.466196060180664, 
+    "store_id": 1015735
+  }, 
+  {
+    "city": "Crestwood", 
+    "name": "Crestwood Commons", 
+    "country": "US", 
+    "longitude": -87.73750305175781, 
+    "latitude": 41.65129089355469, 
+    "store_id": 1015737
+  }, 
+  {
+    "city": "Merced", 
+    "name": "MLK & 16th", 
+    "country": "US", 
+    "longitude": -120.48120880126953, 
+    "latitude": 37.299198150634766, 
+    "store_id": 1015743
+  }, 
+  {
+    "city": "La Mesa", 
+    "name": "Campo Road & Avocado Blvd.", 
+    "country": "US", 
+    "longitude": -116.96144104003906, 
+    "latitude": 32.74708938598633, 
+    "store_id": 1015744
+  }, 
+  {
+    "city": "Ocean Springs", 
+    "name": "Ocean Springs", 
+    "country": "US", 
+    "longitude": -88.78145599365234, 
+    "latitude": 30.412389755249023, 
+    "store_id": 1015745
+  }, 
+  {
+    "city": "Lakewood", 
+    "name": "Bridgeport Way & 100th - Lakewood", 
+    "country": "US", 
+    "longitude": -122.50930786132812, 
+    "latitude": 47.16643142700195, 
+    "store_id": 1015746
+  }, 
+  {
+    "city": "Long Beach", 
+    "name": "Ocean & Alamitos", 
+    "country": "US", 
+    "longitude": -118.18384552001953, 
+    "latitude": 33.76642608642578, 
+    "store_id": 1015747
+  }, 
+  {
+    "city": "Oakland", 
+    "name": "Broadway & 30th", 
+    "country": "US", 
+    "longitude": -122.26235961914062, 
+    "latitude": 37.818965911865234, 
+    "store_id": 1015748
+  }, 
+  {
+    "city": "Winnipeg", 
+    "name": "Main & Murray", 
+    "country": "CA", 
+    "longitude": -97.10066223144531, 
+    "latitude": 49.953922271728516, 
+    "store_id": 1015754
+  }, 
+  {
+    "city": "Bellevue", 
+    "name": "Monroe Rd & Landmark Blvd", 
+    "country": "US", 
+    "longitude": -87.9883804321289, 
+    "latitude": 44.45887756347656, 
+    "store_id": 1015755
+  }, 
+  {
+    "city": "mendoza", 
+    "name": "La Barraca", 
+    "country": "AR", 
+    "longitude": -68.8433609008789, 
+    "latitude": -32.89036178588867, 
+    "store_id": 1015684
+  }, 
+  {
+    "city": "Mendoza", 
+    "name": "Espejo", 
+    "country": "AR", 
+    "longitude": -68.84431457519531, 
+    "latitude": -32.88862991333008, 
+    "store_id": 1015685
+  }, 
+  {
+    "city": "Mendoza", 
+    "name": "Plaza Espana Mendoza", 
+    "country": "AR", 
+    "longitude": -68.83964538574219, 
+    "latitude": -32.88142776489258, 
+    "store_id": 1015686
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Gangdong Station", 
+    "country": "KR", 
+    "longitude": 127.13355255126953, 
+    "latitude": 37.53645706176758, 
+    "store_id": 1015706
+  }, 
+  {
+    "city": "Almaty", 
+    "name": "Globus BC", 
+    "country": "KZ", 
+    "longitude": 76.9073486328125, 
+    "latitude": 43.24040985107422, 
+    "store_id": 1015709
+  }, 
+  {
+    "city": "Hong Kong", 
+    "name": "Science Park", 
+    "country": "CN", 
+    "longitude": 114.21180725097656, 
+    "latitude": 22.424524307250977, 
+    "store_id": 1015716
+  }, 
+  {
+    "city": "Tijuana", 
+    "name": "Hipodromo Caliente", 
+    "country": "MX", 
+    "longitude": -116.9990005493164, 
+    "latitude": 32.50569152832031, 
+    "store_id": 1015778
+  }, 
+  {
+    "city": "MANCHESTER", 
+    "name": "TARGET MANCHESTER T-1249", 
+    "country": "US", 
+    "longitude": -72.5494155883789, 
+    "latitude": 41.80921173095703, 
+    "store_id": 1015779
+  }, 
+  {
+    "city": "Shiga", 
+    "name": "Kusatsu A-SQUARE", 
+    "country": "JP", 
+    "longitude": 135.96047973632812, 
+    "latitude": 35.024627685546875, 
+    "store_id": 1015783
+  }, 
+  {
+    "city": "Taoyuan City", 
+    "name": "Pingzhen", 
+    "country": "TW", 
+    "longitude": 121.2123794555664, 
+    "latitude": 24.902482986450195, 
+    "store_id": 1015794
+  }, 
+  {
+    "city": "Saitama", 
+    "name": "Saitama Shintoshin Relocate", 
+    "country": "JP", 
+    "longitude": 139.63156127929688, 
+    "latitude": 35.8935661315918, 
+    "store_id": 1015806
+  }, 
+  {
+    "city": "Singapore", 
+    "name": "Compass One", 
+    "country": "SG", 
+    "longitude": 103.89555358886719, 
+    "latitude": 1.3902579545974731, 
+    "store_id": 1015810
+  }, 
+  {
+    "city": "\u53a6\u95e8\u5e02", 
+    "name": "\u53a6\u95e8\u6e7e\u60a6\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 118.1626968383789, 
+    "latitude": 24.516603469848633, 
+    "store_id": 1015821
+  }, 
+  {
+    "city": "\u5f20\u5bb6\u53e3", 
+    "name": "\u5f20\u5bb6\u53e3\u767e\u76db\u5e97", 
+    "country": "CN", 
+    "longitude": 114.88646697998047, 
+    "latitude": 40.817649841308594, 
+    "store_id": 1015832
+  }, 
+  {
+    "city": "\u5408\u80a5\u5e02", 
+    "name": "\u5408\u80a5\u7476\u6d77\u4e07\u8fbe\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 117.3524398803711, 
+    "latitude": 31.876304626464844, 
+    "store_id": 1015833
+  }, 
+  {
+    "city": "Madison", 
+    "name": "KROGER MADISON 605", 
+    "country": "US", 
+    "longitude": -86.74961853027344, 
+    "latitude": 34.70768737792969, 
+    "store_id": 1015848
+  }, 
+  {
+    "city": "South Jordan", 
+    "name": "Smith's South Jordan #276", 
+    "country": "US", 
+    "longitude": -112.02023315429688, 
+    "latitude": 40.53780746459961, 
+    "store_id": 1015850
+  }, 
+  {
+    "city": "Raleigh", 
+    "name": "Crabtree", 
+    "country": "US", 
+    "longitude": -78.67990112304688, 
+    "latitude": 35.84114074707031, 
+    "store_id": 1015861
+  }, 
+  {
+    "city": "Oakland", 
+    "name": "Safeway - Oakland #3132", 
+    "country": "US", 
+    "longitude": -122.25052642822266, 
+    "latitude": 37.83454513549805, 
+    "store_id": 1015865
+  }, 
+  {
+    "city": "\u90d1\u5dde\u5e02", 
+    "name": "\u90d1\u5dde\u6d77\u6c47\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 113.7700424194336, 
+    "latitude": 34.754215240478516, 
+    "store_id": 1015869
+  }, 
+  {
+    "city": "\u957f\u6c99\u5e02", 
+    "name": "\u957f\u6c99\u5f00\u798f\u4e07\u8fbeII\u5e97", 
+    "country": "CN", 
+    "longitude": 112.9702377319336, 
+    "latitude": 28.19803237915039, 
+    "store_id": 1015871
+  }, 
+  {
+    "city": "\u4e1c\u839e\u5e02", 
+    "name": "\u4e1c\u839e\u9ec4\u6c5f\u5929\u8679\u5e97", 
+    "country": "CN", 
+    "longitude": 114.01344299316406, 
+    "latitude": 22.9140625, 
+    "store_id": 1015874
+  }, 
+  {
+    "city": "\u6b66\u6c49\u5e02", 
+    "name": "\u6b66\u6c49\u9a8f\u4e1a\u8d22\u5bcc\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 114.36485290527344, 
+    "latitude": 30.582529067993164, 
+    "store_id": 1015875
+  }, 
+  {
+    "city": "Madrid", 
+    "name": "VELAZQUEZ 32", 
+    "country": "ES", 
+    "longitude": -3.6839470863342285, 
+    "latitude": 40.42494201660156, 
+    "store_id": 1015817
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "MOI Debenhams", 
+    "country": "TR", 
+    "longitude": 28.807353973388672, 
+    "latitude": 41.06290817260742, 
+    "store_id": 1015835
+  }, 
+  {
+    "city": "Tainan", 
+    "name": "Life function hall-1F-STUST", 
+    "country": "TW", 
+    "longitude": 120.22644805908203, 
+    "latitude": 23.02528953552246, 
+    "store_id": 1015836
+  }, 
+  {
+    "city": "Augusta", 
+    "name": "Kroger - Augusta #644", 
+    "country": "US", 
+    "longitude": -82.06846618652344, 
+    "latitude": 33.47989273071289, 
+    "store_id": 1015852
+  }, 
+  {
+    "city": "Bandung", 
+    "name": "PPAU Building", 
+    "country": "ID", 
+    "longitude": 107.58003234863281, 
+    "latitude": -6.904385089874268, 
+    "store_id": 1015855
+  }, 
+  {
+    "city": "Bursa", 
+    "name": "Bursa Balat", 
+    "country": "TR", 
+    "longitude": 28.93936538696289, 
+    "latitude": 40.26622009277344, 
+    "store_id": 1015876
+  }, 
+  {
+    "city": "San Isidro", 
+    "name": "UPC San Isidro", 
+    "country": "PE", 
+    "longitude": -77.05024719238281, 
+    "latitude": -12.087797164916992, 
+    "store_id": 1015973
+  }, 
+  {
+    "city": "Szuka", 
+    "name": "TSUTAYA Suzuka", 
+    "country": "JP", 
+    "longitude": 136.54150390625, 
+    "latitude": 34.8593864440918, 
+    "store_id": 1016009
+  }, 
+  {
+    "city": "Gangwon", 
+    "name": "Daemyung Ocean World II", 
+    "country": "KR", 
+    "longitude": 127.6858901977539, 
+    "latitude": 37.648887634277344, 
+    "store_id": 1016025
+  }, 
+  {
+    "city": "Gangwon", 
+    "name": "Daemyung Ocean World I (entrance)", 
+    "country": "KR", 
+    "longitude": 127.68609619140625, 
+    "latitude": 37.64952087402344, 
+    "store_id": 1016026
+  }, 
+  {
+    "city": "ShangHai", 
+    "name": "Jiading  SMLCentral Square", 
+    "country": "CN", 
+    "longitude": 121.2374038696289, 
+    "latitude": 31.390531539916992, 
+    "store_id": 1016167
+  }, 
+  {
+    "city": "Amityville", 
+    "name": "Amityville- Broadway", 
+    "country": "US", 
+    "longitude": -73.42655944824219, 
+    "latitude": 40.70230484008789, 
+    "store_id": 1009856
+  }, 
+  {
+    "city": "Cancun", 
+    "name": "Terminal 3 Planta Alta II", 
+    "country": "MX", 
+    "longitude": -86.87356567382812, 
+    "latitude": 21.040340423583984, 
+    "store_id": 1013928
+  }, 
+  {
+    "city": "Kahului", 
+    "name": "Waiale Rd & Kuikahi Dr, Wailuku", 
+    "country": "US", 
+    "longitude": -156.4993438720703, 
+    "latitude": 20.871652603149414, 
+    "store_id": 1015523
+  }, 
+  {
+    "city": "Monterrey", 
+    "name": "Paseo La Fe", 
+    "country": "MX", 
+    "longitude": -100.27831268310547, 
+    "latitude": 25.68301010131836, 
+    "store_id": 1015482
+  }, 
+  {
+    "city": "Medellin", 
+    "name": "Milla De Oro", 
+    "country": "CO", 
+    "longitude": -75.57267761230469, 
+    "latitude": 6.200079917907715, 
+    "store_id": 1016250
+  }, 
+  {
+    "city": "Kansas City", 
+    "name": "96th and North Oak", 
+    "country": "US", 
+    "longitude": -94.57649230957031, 
+    "latitude": 39.267120361328125, 
+    "store_id": 1006933
+  }, 
+  {
+    "city": "Washington", 
+    "name": "Trump Hotel", 
+    "country": "US", 
+    "longitude": -77.02784729003906, 
+    "latitude": 38.89385223388672, 
+    "store_id": 1010030
+  }, 
+  {
+    "city": "Phuket", 
+    "name": "Phuket Airport-Landside", 
+    "country": "TH", 
+    "longitude": 98.30557250976562, 
+    "latitude": 8.104412078857422, 
+    "store_id": 1015070
+  }, 
+  {
+    "city": "Epsom", 
+    "name": "Epsom - Ashley Centre", 
+    "country": "GB", 
+    "longitude": -0.2677609920501709, 
+    "latitude": 51.3331184387207, 
+    "store_id": 1015199
+  }, 
+  {
+    "city": "Twickenham", 
+    "name": "Twickenham - King Street-", 
+    "country": "GB", 
+    "longitude": -0.3288309872150421, 
+    "latitude": 51.445838928222656, 
+    "store_id": 1015201
+  }, 
+  {
+    "city": "Staines", 
+    "name": "Staines - High Street", 
+    "country": "GB", 
+    "longitude": -1.475640058517456, 
+    "latitude": 52.92190170288086, 
+    "store_id": 1015202
+  }, 
+  {
+    "city": "Teddington", 
+    "name": "Teddington - High Street", 
+    "country": "GB", 
+    "longitude": -0.3302440047264099, 
+    "latitude": 51.42716598510742, 
+    "store_id": 1015215
+  }, 
+  {
+    "city": "Feltham", 
+    "name": "Feltham - The Longford Centre", 
+    "country": "GB", 
+    "longitude": -0.41126900911331177, 
+    "latitude": 51.44643783569336, 
+    "store_id": 1015223
+  }, 
+  {
+    "city": "Hounslow", 
+    "name": "Hounslow - High Street", 
+    "country": "GB", 
+    "longitude": -0.36263200640678406, 
+    "latitude": 51.46882629394531, 
+    "store_id": 1015224
+  }, 
+  {
+    "city": "Sutton", 
+    "name": "Sutton - High Street-", 
+    "country": "GB", 
+    "longitude": -0.19364100694656372, 
+    "latitude": 51.3643684387207, 
+    "store_id": 1015204
+  }, 
+  {
+    "city": "Washington", 
+    "name": "Takoma DC, Carroll St", 
+    "country": "US", 
+    "longitude": -77.01526641845703, 
+    "latitude": 38.974796295166016, 
+    "store_id": 1015758
+  }, 
+  {
+    "city": "Khaitan", 
+    "name": "Sama Mall", 
+    "country": "KW", 
+    "longitude": 47.57582473754883, 
+    "latitude": 29.17429542541504, 
+    "store_id": 1015776
+  }, 
+  {
+    "city": "Pasig City", 
+    "name": "Shoppes at Portico", 
+    "country": "PH", 
+    "longitude": 121.06416320800781, 
+    "latitude": 14.569656372070312, 
+    "store_id": 1014617
+  }, 
+  {
+    "city": "Halifax", 
+    "name": "5640 Spring Garden Road", 
+    "country": "CA", 
+    "longitude": -63.578067779541016, 
+    "latitude": 44.642616271972656, 
+    "store_id": 1015495
+  }, 
+  {
+    "city": "Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh", 
+    "name": "Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh", 
+    "country": "VN", 
+    "longitude": 106.66336059570312, 
+    "latitude": 10.812785148620605, 
+    "store_id": 1015627
+  }, 
+  {
+    "city": "New York", 
+    "name": "10 Waverly Place", 
+    "country": "US", 
+    "longitude": -73.9942626953125, 
+    "latitude": 40.729984283447266, 
+    "store_id": 1015672
+  }, 
+  {
+    "city": "Dallas", 
+    "name": "Northpark Mall  Level 1", 
+    "country": "US", 
+    "longitude": -96.77320861816406, 
+    "latitude": 32.86862564086914, 
+    "store_id": 1016003
+  }, 
+  {
+    "city": "\u6b66\u6c49\u5e02", 
+    "name": "\u6b66\u6c49\u58f9\u65b9\u8d2d\u7269\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 114.31090545654297, 
+    "latitude": 30.611188888549805, 
+    "store_id": 1013867
+  }, 
+  {
+    "city": "\u53a6\u95e8\u5e02", 
+    "name": "\u53a6\u95e8\u68a7\u4fa3\u8def\u5206\u5e97", 
+    "country": "CN", 
+    "longitude": 118.14034271240234, 
+    "latitude": 24.68939208984375, 
+    "store_id": 1013920
+  }, 
+  {
+    "city": "\u897f\u5b89\u5e02", 
+    "name": "\u897f\u5b89\u897f\u6069\u5965\u7279\u83b1\u65af\u5e97", 
+    "country": "CN", 
+    "longitude": 109.17240142822266, 
+    "latitude": 34.3621826171875, 
+    "store_id": 1013925
+  }, 
+  {
+    "city": "\u5929\u6d25\u5e02", 
+    "name": "\u5929\u6d25\u53cb\u8c0a\u65b0\u5929\u5730\u5546\u53a6\u5e97", 
+    "country": "CN", 
+    "longitude": 117.19866943359375, 
+    "latitude": 39.124412536621094, 
+    "store_id": 1014239
+  }, 
+  {
+    "city": "Goyang", 
+    "name": "Ilsan Y-City", 
+    "country": "KR", 
+    "longitude": 126.79251098632812, 
+    "latitude": 37.642303466796875, 
+    "store_id": 1014330
+  }, 
+  {
+    "city": "Hong Kong", 
+    "name": "Prince Tower", 
+    "country": "CN", 
+    "longitude": 114.17125701904297, 
+    "latitude": 22.29656982421875, 
+    "store_id": 1014705
+  }, 
+  {
+    "city": "Murfreesboro", 
+    "name": "Kroger Murfreesboro 565", 
+    "country": "US", 
+    "longitude": -86.49336242675781, 
+    "latitude": 35.84306716918945, 
+    "store_id": 1015369
+  }, 
+  {
+    "city": "Walnut Creek", 
+    "name": "Safeway - Walnut Creek #3026", 
+    "country": "US", 
+    "longitude": -122.01663208007812, 
+    "latitude": 37.92841720581055, 
+    "store_id": 1015441
+  }, 
+  {
+    "city": "Bethesda", 
+    "name": "Harris Teeter Bethesda # 404", 
+    "country": "US", 
+    "longitude": -77.09651184082031, 
+    "latitude": 38.995147705078125, 
+    "store_id": 1015513
+  }, 
+  {
+    "city": "Atlanta", 
+    "name": "Peachtree Dunwoody & Hammond Drive", 
+    "country": "US", 
+    "longitude": -84.35135650634766, 
+    "latitude": 33.91893005371094, 
+    "store_id": 1015646
+  }, 
+  {
+    "city": "\u5929\u6d25\u5e02", 
+    "name": "\u5929\u6d25\u6b66\u6e05\u610f\u5b89\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 117.01242065429688, 
+    "latitude": 39.378150939941406, 
+    "store_id": 1015696
+  }, 
+  {
+    "city": "Binghamton", 
+    "name": "Binghamton U at Hinman Dining Hall", 
+    "country": "US", 
+    "longitude": -75.90650177001953, 
+    "latitude": 42.101768493652344, 
+    "store_id": 1015671
+  }, 
+  {
+    "city": "Los Angeles", 
+    "name": "Alameda & 14th", 
+    "country": "US", 
+    "longitude": -118.23985290527344, 
+    "latitude": 34.02534103393555, 
+    "store_id": 1015759
+  }, 
+  {
+    "city": "Daytona Beach Shores", 
+    "name": "Dunlawton & Peninsula", 
+    "country": "US", 
+    "longitude": -80.97106170654297, 
+    "latitude": 29.150009155273438, 
+    "store_id": 1015760
+  }, 
+  {
+    "city": "Waterford", 
+    "name": "George's Court", 
+    "country": "IE", 
+    "longitude": -7.112119197845459, 
+    "latitude": 52.26142883300781, 
+    "store_id": 1015837
+  }, 
+  {
+    "city": "\u6606\u660e\u5e02", 
+    "name": "\u6606\u660e\u7fe0\u6e56\u5e97", 
+    "country": "CN", 
+    "longitude": 102.70539093017578, 
+    "latitude": 25.047107696533203, 
+    "store_id": 1015868
+  }, 
+  {
+    "city": "Sarasota", 
+    "name": "S. Tamiami Trail & Beneva", 
+    "country": "US", 
+    "longitude": -82.4952392578125, 
+    "latitude": 27.229787826538086, 
+    "store_id": 1015882
+  }, 
+  {
+    "city": "\u5fb7\u9633\u5e02", 
+    "name": "\u5fb7\u9633\u4e07\u8fbe\u5e97", 
+    "country": "CN", 
+    "longitude": 104.4154281616211, 
+    "latitude": 31.158248901367188, 
+    "store_id": 1015895
+  }, 
+  {
+    "city": "\u76d8\u9526\u5e02", 
+    "name": "\u76d8\u9526\u6c34\u6e38\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 122.07657623291016, 
+    "latitude": 41.12423324584961, 
+    "store_id": 1015942
+  }, 
+  {
+    "city": "\u5e7f\u5dde\u5e02", 
+    "name": "\u5e7f\u5dde\u7acb\u767d\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 113.2387924194336, 
+    "latitude": 23.10190773010254, 
+    "store_id": 1015953
+  }, 
+  {
+    "city": "\u91cd\u5e86\u5e02", 
+    "name": "\u91cd\u5e86\u5357\u576a\u4e07\u8fbeII\u5e97", 
+    "country": "CN", 
+    "longitude": 106.56914520263672, 
+    "latitude": 29.526281356811523, 
+    "store_id": 1015954
+  }, 
+  {
+    "city": "\u5408\u80a5\u5e02", 
+    "name": "\u5408\u80a5\u6ee8\u6e56\u4e07\u8fbe\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 117.3047866821289, 
+    "latitude": 31.701208114624023, 
+    "store_id": 1015969
+  }, 
+  {
+    "city": "Tulsa", 
+    "name": "Tulsa - Central Library", 
+    "country": "US", 
+    "longitude": -95.99651336669922, 
+    "latitude": 36.150360107421875, 
+    "store_id": 1015765
+  }, 
+  {
+    "city": "Normal", 
+    "name": "ISU - Student Fitness Center", 
+    "country": "US", 
+    "longitude": -88.99317169189453, 
+    "latitude": 40.508056640625, 
+    "store_id": 1015813
+  }, 
+  {
+    "city": "gyeonggi", 
+    "name": "pyeongchon hogae", 
+    "country": "KR", 
+    "longitude": 126.9596939086914, 
+    "latitude": 37.38298034667969, 
+    "store_id": 1015860
+  }, 
+  {
+    "city": "Eagan", 
+    "name": "Hy Vee - Eagan #1165", 
+    "country": "US", 
+    "longitude": -93.1710433959961, 
+    "latitude": 44.836971282958984, 
+    "store_id": 1015936
+  }, 
+  {
+    "city": "Eindhoven", 
+    "name": "Eindhoven Central Station", 
+    "country": "NL", 
+    "longitude": 5.4785261154174805, 
+    "latitude": 51.44416427612305, 
+    "store_id": 1015975
+  }, 
+  {
+    "city": "\u6210\u90fd\u5e02", 
+    "name": "\u6210\u90fd\u9f99\u6e56\u65f6\u4ee3\u5929\u8857", 
+    "country": "CN", 
+    "longitude": 103.92174530029297, 
+    "latitude": 30.75128173828125, 
+    "store_id": 1015988
+  }, 
+  {
+    "city": "Baker City", 
+    "name": "Albertsons - Baker City #3211", 
+    "country": "US", 
+    "longitude": -117.81884765625, 
+    "latitude": 44.78333282470703, 
+    "store_id": 1016024
+  }, 
+  {
+    "city": "Powell", 
+    "name": "Kroger - Powell #670", 
+    "country": "US", 
+    "longitude": -84.05780029296875, 
+    "latitude": 36.045467376708984, 
+    "store_id": 1015987
+  }, 
+  {
+    "city": "Ancaster", 
+    "name": "LONGOS ANCASTER", 
+    "country": "CA", 
+    "longitude": -79.94896697998047, 
+    "latitude": 43.24509811401367, 
+    "store_id": 1015996
+  }, 
+  {
+    "city": "Gyeonggi", 
+    "name": "shinsegae hanam L1", 
+    "country": "KR", 
+    "longitude": 127.2154541015625, 
+    "latitude": 37.544525146484375, 
+    "store_id": 1015343
+  }, 
+  {
+    "city": "Simi Valley", 
+    "name": "Hwy 118 and First", 
+    "country": "US", 
+    "longitude": -118.76858520507812, 
+    "latitude": 34.28323745727539, 
+    "store_id": 1015879
+  }, 
+  {
+    "city": "Athol", 
+    "name": "Athol Commons", 
+    "country": "US", 
+    "longitude": -72.18782043457031, 
+    "latitude": 42.58057403564453, 
+    "store_id": 1015916
+  }, 
+  {
+    "city": "Aomori", 
+    "name": "Aomori Nishi Bypass", 
+    "country": "JP", 
+    "longitude": 140.7030029296875, 
+    "latitude": 40.8316764831543, 
+    "store_id": 1016005
+  }, 
+  {
+    "city": "Craiova", 
+    "name": "Mercur Craiova", 
+    "country": "RO", 
+    "longitude": 23.794750213623047, 
+    "latitude": 44.31748962402344, 
+    "store_id": 1015972
+  }, 
+  {
+    "city": "Suita", 
+    "name": "Kansai University Senriyama", 
+    "country": "JP", 
+    "longitude": 135.50816345214844, 
+    "latitude": 34.770355224609375, 
+    "store_id": 1016007
+  }, 
+  {
+    "city": "gyeonggi", 
+    "name": "Starfield hanam  L1", 
+    "country": "KR", 
+    "longitude": 127.22041320800781, 
+    "latitude": 37.5448112487793, 
+    "store_id": 1016097
+  }, 
+  {
+    "city": "gyeonggi", 
+    "name": "Starfield hanam GL", 
+    "country": "KR", 
+    "longitude": 127.2252426147461, 
+    "latitude": 37.54431915283203, 
+    "store_id": 1016098
+  }, 
+  {
+    "city": "Saltillo", 
+    "name": "Plaza Carranza", 
+    "country": "MX", 
+    "longitude": -100.9876480102539, 
+    "latitude": 25.450700759887695, 
+    "store_id": 1014789
+  }, 
+  {
+    "city": "Arklow Co Wicklow", 
+    "name": "Bridgewater", 
+    "country": "IE", 
+    "longitude": -6.1472249031066895, 
+    "latitude": 52.79886245727539, 
+    "store_id": 1015244
+  }, 
+  {
+    "city": "Houston", 
+    "name": "Hwy 290 & 43rd Street", 
+    "country": "US", 
+    "longitude": -95.4822998046875, 
+    "latitude": 29.831195831298828, 
+    "store_id": 1015260
+  }, 
+  {
+    "city": "Baltimore", 
+    "name": "10 Light St", 
+    "country": "US", 
+    "longitude": -76.6139907836914, 
+    "latitude": 39.28945541381836, 
+    "store_id": 1015867
+  }, 
+  {
+    "city": "Metepec", 
+    "name": "Pabellon Metepec", 
+    "country": "MX", 
+    "longitude": -99.60688781738281, 
+    "latitude": 19.24622917175293, 
+    "store_id": 1015798
+  }, 
+  {
+    "city": "Blacksburg", 
+    "name": "First & Main", 
+    "country": "US", 
+    "longitude": -80.4009780883789, 
+    "latitude": 37.215213775634766, 
+    "store_id": 1015881
+  }, 
+  {
+    "city": "Guarulhos", 
+    "name": "Aeroporto Intl Guarulhos III", 
+    "country": "BR", 
+    "longitude": -46.47544860839844, 
+    "latitude": -23.42827606201172, 
+    "store_id": 1014563
+  }, 
+  {
+    "city": "Guaynabo", 
+    "name": "Ft. Buchanan Mall", 
+    "country": "PR", 
+    "longitude": -66.11051940917969, 
+    "latitude": 18.359729766845703, 
+    "store_id": 1014933
+  }, 
+  {
+    "city": "Moscow", 
+    "name": "Baikal kiosk", 
+    "country": "RU", 
+    "longitude": 37.538028717041016, 
+    "latitude": 55.83738327026367, 
+    "store_id": 1015719
+  }, 
+  {
+    "city": "Terrell", 
+    "name": "Hwy 20 & FM 148", 
+    "country": "US", 
+    "longitude": -96.3219223022461, 
+    "latitude": 32.71811294555664, 
+    "store_id": 1015878
+  }, 
+  {
+    "city": "Lake Forest", 
+    "name": "Western & Deerpath - Lake Forest", 
+    "country": "US", 
+    "longitude": -87.83990478515625, 
+    "latitude": 42.25170135498047, 
+    "store_id": 1015888
+  }, 
+  {
+    "city": "San Diego", 
+    "name": "Carmel Mountain & Rancho Carmel Dr.", 
+    "country": "US", 
+    "longitude": -117.08372497558594, 
+    "latitude": 32.97916793823242, 
+    "store_id": 1015892
+  }, 
+  {
+    "city": "Kissimmee", 
+    "name": "US 192 & Celebration", 
+    "country": "US", 
+    "longitude": -81.52875518798828, 
+    "latitude": 28.333904266357422, 
+    "store_id": 1015896
+  }, 
+  {
+    "city": "Cleveland", 
+    "name": "Clifton Boulevard", 
+    "country": "US", 
+    "longitude": -81.76827239990234, 
+    "latitude": 41.48720169067383, 
+    "store_id": 1015898
+  }, 
+  {
+    "city": "Chicago", 
+    "name": "333 N. Michigan Avenue", 
+    "country": "US", 
+    "longitude": -87.62442779541016, 
+    "latitude": 41.88772201538086, 
+    "store_id": 1015909
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u9152\u4ed9\u6865\u8def\u5496\u5561\u5e97", 
+    "country": "CN", 
+    "longitude": 116.4904556274414, 
+    "latitude": 39.975669860839844, 
+    "store_id": 1016159
+  }, 
+  {
+    "city": "Chonburi", 
+    "name": "The Bay Pattaya", 
+    "country": "TH", 
+    "longitude": 100.88506317138672, 
+    "latitude": 12.943446159362793, 
+    "store_id": 1016162
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u671b\u4eac\u4e1c\u56ed\u5e97", 
+    "country": "CN", 
+    "longitude": 116.4880599975586, 
+    "latitude": 39.999664306640625, 
+    "store_id": 1012338
+  }, 
+  {
+    "city": "\u510b\u5dde\u5e02", 
+    "name": "\u510b\u5dde\u590f\u65e5\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 109.58892059326172, 
+    "latitude": 19.527395248413086, 
+    "store_id": 1013833
+  }, 
+  {
+    "city": "\u6f33\u5dde\u5e02", 
+    "name": "\u6f33\u5dde\u51ef\u5fb7\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 117.67296600341797, 
+    "latitude": 24.51042938232422, 
+    "store_id": 1013919
+  }, 
+  {
+    "city": "\u4f5b\u5c71\u5e02", 
+    "name": "\u4f5b\u5c71\u8d8a\u79c0\u60a6\u6c47\u5929\u5730\u5e97", 
+    "country": "CN", 
+    "longitude": 113.14208984375, 
+    "latitude": 23.0316104888916, 
+    "store_id": 1013943
+  }, 
+  {
+    "city": "\u6d4e\u5357\u5e02", 
+    "name": "\u6d4e\u5357\u6052\u9686\u4e8c\u5e97", 
+    "country": "CN", 
+    "longitude": 117.0235595703125, 
+    "latitude": 36.663997650146484, 
+    "store_id": 1014321
+  }, 
+  {
+    "city": "\u5e7f\u5dde\u5e02", 
+    "name": "\u5e7f\u5dde\u4ea4\u6613\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 113.26295471191406, 
+    "latitude": 23.131555557250977, 
+    "store_id": 1014324
+  }, 
+  {
+    "city": "Dubai", 
+    "name": "Mudon", 
+    "country": "AE", 
+    "longitude": 55.30875015258789, 
+    "latitude": 25.269554138183594, 
+    "store_id": 1014532
+  }, 
+  {
+    "city": "Casablanca", 
+    "name": "Mohamed V International Airport", 
+    "country": "MA", 
+    "longitude": -7.581791877746582, 
+    "latitude": 33.36842727661133, 
+    "store_id": 1015047
+  }, 
+  {
+    "city": "Oxford", 
+    "name": "Price Chopper Oxford # 248", 
+    "country": "US", 
+    "longitude": -73.10880279541016, 
+    "latitude": 41.42256546020508, 
+    "store_id": 1015480
+  }, 
+  {
+    "city": "College Station", 
+    "name": "TAMU Corps of Cadets", 
+    "country": "US", 
+    "longitude": -96.33743286132812, 
+    "latitude": 30.613542556762695, 
+    "store_id": 1015615
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "Capitol Cinema", 
+    "country": "TR", 
+    "longitude": 29.093669891357422, 
+    "latitude": 41.01565170288086, 
+    "store_id": 1015660
+  }, 
+  {
+    "city": "Prathumthani", 
+    "name": "Rangsit University", 
+    "country": "TH", 
+    "longitude": 100.58644104003906, 
+    "latitude": 13.964678764343262, 
+    "store_id": 1015689
+  }, 
+  {
+    "city": "\u6df1\u5733\u5e02", 
+    "name": "\u6df1\u5733\u5b9d\u5b89\u6d77\u96c5\u7f24\u7eb7\u57ce2\u5e97", 
+    "country": "CN", 
+    "longitude": 113.90633392333984, 
+    "latitude": 22.559940338134766, 
+    "store_id": 1015816
+  }, 
+  {
+    "city": "Little Rock", 
+    "name": "Marriott Little Rock - Lobby", 
+    "country": "US", 
+    "longitude": -92.27132415771484, 
+    "latitude": 34.748477935791016, 
+    "store_id": 1015711
+  }, 
+  {
+    "city": "Manchester", 
+    "name": "Dierbergs Lafayette Center", 
+    "country": "US", 
+    "longitude": -90.52194213867188, 
+    "latitude": 38.59562301635742, 
+    "store_id": 1015771
+  }, 
+  {
+    "city": "Sioux City", 
+    "name": "Target Sioux City T-1800", 
+    "country": "US", 
+    "longitude": -96.33250427246094, 
+    "latitude": 42.44878387451172, 
+    "store_id": 1015787
+  }, 
+  {
+    "city": "Bronx", 
+    "name": "Throgs Neck Shopping Center", 
+    "country": "US", 
+    "longitude": -73.83809661865234, 
+    "latitude": 40.82431411743164, 
+    "store_id": 1015873
+  }, 
+  {
+    "city": "Cape Coral", 
+    "name": "Del Prado Blvd", 
+    "country": "US", 
+    "longitude": -81.94039916992188, 
+    "latitude": 26.611040115356445, 
+    "store_id": 1015890
+  }, 
+  {
+    "city": "\u4e50\u5c71\u5e02", 
+    "name": "\u4e50\u5c71\u4e07\u8fbe\u5206\u5e97", 
+    "country": "CN", 
+    "longitude": 103.72439575195312, 
+    "latitude": 29.601993560791016, 
+    "store_id": 1015893
+  }, 
+  {
+    "city": "New Paltz", 
+    "name": "SUNY New Paltz Parker Theatre", 
+    "country": "US", 
+    "longitude": -74.0907974243164, 
+    "latitude": 41.74677276611328, 
+    "store_id": 1015902
+  }, 
+  {
+    "city": "Pinellas Park", 
+    "name": "Park & Belcher", 
+    "country": "US", 
+    "longitude": -82.73902893066406, 
+    "latitude": 27.839643478393555, 
+    "store_id": 1015913
+  }, 
+  {
+    "city": "Brooklyn", 
+    "name": "7th Ave and 9th St", 
+    "country": "US", 
+    "longitude": -73.98178100585938, 
+    "latitude": 40.66685485839844, 
+    "store_id": 1015924
+  }, 
+  {
+    "city": "Morrisville", 
+    "name": "Park West Village", 
+    "country": "US", 
+    "longitude": -78.8191146850586, 
+    "latitude": 35.80713653564453, 
+    "store_id": 1015930
+  }, 
+  {
+    "city": "Litchfield Park", 
+    "name": "Camelback & Litchfield", 
+    "country": "US", 
+    "longitude": -112.35711669921875, 
+    "latitude": 33.508819580078125, 
+    "store_id": 1015937
+  }, 
+  {
+    "city": "Hernando", 
+    "name": "KROGER HERNANDO #478", 
+    "country": "US", 
+    "longitude": -89.98516082763672, 
+    "latitude": 34.825653076171875, 
+    "store_id": 1015849
+  }, 
+  {
+    "city": "Louisville", 
+    "name": "Kroger Louisville #785", 
+    "country": "US", 
+    "longitude": -85.82849884033203, 
+    "latitude": 38.16843032836914, 
+    "store_id": 1015910
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "Memorial Hospital Atasehir", 
+    "country": "TR", 
+    "longitude": 29.112089157104492, 
+    "latitude": 40.98944091796875, 
+    "store_id": 1015929
+  }, 
+  {
+    "city": "Menlyn", 
+    "name": "Menlyn Maine", 
+    "country": "ZA", 
+    "longitude": 28.2808837890625, 
+    "latitude": -25.785737991333008, 
+    "store_id": 1015938
+  }, 
+  {
+    "city": "Khaldiya", 
+    "name": "Khaldiya University - Men", 
+    "country": "KW", 
+    "longitude": 47.58210754394531, 
+    "latitude": 29.190858840942383, 
+    "store_id": 1015940
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u91d1\u878d\u5927\u8857\u5e97", 
+    "country": "CN", 
+    "longitude": 116.35899353027344, 
+    "latitude": 39.919002532958984, 
+    "store_id": 1015962
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u5fb7\u5916\u5927\u8857\u5496\u5561\u5e97", 
+    "country": "CN", 
+    "longitude": 116.37837982177734, 
+    "latitude": 39.95519256591797, 
+    "store_id": 1015963
+  }, 
+  {
+    "city": "\u90d1\u5dde\u5e02", 
+    "name": "\u90d1\u5dde\u4e39\u5c3c\u65afCBD\u4e00\u5929\u5730", 
+    "country": "CN", 
+    "longitude": 113.72433471679688, 
+    "latitude": 34.76723861694336, 
+    "store_id": 1015967
+  }, 
+  {
+    "city": "\u5927\u7406\u5e02", 
+    "name": "\u5927\u7406\u7ea2\u9f99\u4e95\u5e97", 
+    "country": "CN", 
+    "longitude": 100.16150665283203, 
+    "latitude": 25.689960479736328, 
+    "store_id": 1015968
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u671d\u6797\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 116.50563049316406, 
+    "latitude": 39.79384231567383, 
+    "store_id": 1015976
+  }, 
+  {
+    "city": "\u957f\u6625\u5e02", 
+    "name": "\u957f\u6625\u5f00\u8fd0\u8857\u6b27\u4e9a\u5e97", 
+    "country": "CN", 
+    "longitude": 125.2416000366211, 
+    "latitude": 43.840118408203125, 
+    "store_id": 1015979
+  }, 
+  {
+    "city": "\u6885\u5dde\u5e02", 
+    "name": "\u6885\u5dde\u4e07\u8fbe\u5206\u5e97", 
+    "country": "CN", 
+    "longitude": 116.13804626464844, 
+    "latitude": 24.271596908569336, 
+    "store_id": 1015985
+  }, 
+  {
+    "city": "\u4f5b\u5c71\u5e02", 
+    "name": "\u4f5b\u5c71\u5c71\u6d77\u540d\u95e8\u5e97", 
+    "country": "CN", 
+    "longitude": 113.20613861083984, 
+    "latitude": 23.174915313720703, 
+    "store_id": 1015989
+  }, 
+  {
+    "city": "Washington", 
+    "name": "Renaissance Hotel", 
+    "country": "US", 
+    "longitude": -77.02316284179688, 
+    "latitude": 38.90171813964844, 
+    "store_id": 1016001
+  }, 
+  {
+    "city": "Mouka", 
+    "name": "Moka", 
+    "country": "JP", 
+    "longitude": 139.98858642578125, 
+    "latitude": 36.44424819946289, 
+    "store_id": 1016006
+  }, 
+  {
+    "city": "Darien", 
+    "name": "75th & Cass", 
+    "country": "US", 
+    "longitude": -87.97334289550781, 
+    "latitude": 41.75082778930664, 
+    "store_id": 1016013
+  }, 
+  {
+    "city": "\u5e7f\u5dde\u5e02", 
+    "name": "\u5e7f\u5dde\u4e1c\u65b9\u6587\u5fb7\u5e97", 
+    "country": "CN", 
+    "longitude": 113.27191162109375, 
+    "latitude": 23.12343406677246, 
+    "store_id": 1016150
+  }, 
+  {
+    "city": "White Lake", 
+    "name": "KROGER WHITE LAKE 759", 
+    "country": "US", 
+    "longitude": -83.50402069091797, 
+    "latitude": 42.64944076538086, 
+    "store_id": 1015950
+  }, 
+  {
+    "city": "Mushrif", 
+    "name": "Australian College of Kuwait", 
+    "country": "KW", 
+    "longitude": 48.050048828125, 
+    "latitude": 29.27567481994629, 
+    "store_id": 1015977
+  }, 
+  {
+    "city": "SAN DIEGO", 
+    "name": "Navy SW Region Mobile Truck-SD", 
+    "country": "US", 
+    "longitude": -117.13002014160156, 
+    "latitude": 32.68547439575195, 
+    "store_id": 1015981
+  }, 
+  {
+    "city": "Franklin", 
+    "name": "KROGER FRANKLIN #979", 
+    "country": "US", 
+    "longitude": -86.06433868408203, 
+    "latitude": 39.48929214477539, 
+    "store_id": 1015986
+  }, 
+  {
+    "city": "SAN LUIS OBISPO", 
+    "name": "CAL POLY SLO - MOBILE TRUCK", 
+    "country": "US", 
+    "longitude": -120.66094207763672, 
+    "latitude": 35.302825927734375, 
+    "store_id": 1016246
+  }, 
+  {
+    "city": "Panama", 
+    "name": "Penta Plaza", 
+    "country": "PA", 
+    "longitude": -79.52278137207031, 
+    "latitude": 8.983038902282715, 
+    "store_id": 1011544
+  }, 
+  {
+    "city": "Alajuela", 
+    "name": "Aeropuerto Juan Santamaria", 
+    "country": "CR", 
+    "longitude": -84.12146759033203, 
+    "latitude": 9.595402717590332, 
+    "store_id": 1013991
+  }, 
+  {
+    "city": "Moscow", 
+    "name": "Karo Film Capitoly Vernadskogo", 
+    "country": "RU", 
+    "longitude": 37.52884292602539, 
+    "latitude": 55.69213104248047, 
+    "store_id": 1015074
+  }, 
+  {
+    "city": "New York", 
+    "name": "93rd & Second", 
+    "country": "US", 
+    "longitude": -73.94837188720703, 
+    "latitude": 40.78277587890625, 
+    "store_id": 1015899
+  }, 
+  {
+    "city": "San Antonio", 
+    "name": "Blanco & Wurzbach", 
+    "country": "US", 
+    "longitude": -98.51703643798828, 
+    "latitude": 29.557659149169922, 
+    "store_id": 1016068
+  }, 
+  {
+    "city": "Murcia", 
+    "name": "ECI MURCIA", 
+    "country": "ES", 
+    "longitude": -1.1320029497146606, 
+    "latitude": 37.988548278808594, 
+    "store_id": 1016347
+  }, 
+  {
+    "city": "\u6b66\u6c49\u5e02", 
+    "name": "\u6b66\u6c49\u521b\u610f\u5929\u5730\u5e97", 
+    "country": "CN", 
+    "longitude": 114.32270050048828, 
+    "latitude": 30.470386505126953, 
+    "store_id": 1013531
+  }, 
+  {
+    "city": "Wolverhampton", 
+    "name": "University of Wolverhampton", 
+    "country": "GB", 
+    "longitude": -2.1281540393829346, 
+    "latitude": 52.58829116821289, 
+    "store_id": 1014761
+  }, 
+  {
+    "city": "Kulai Johor", 
+    "name": "IOI Mall Kulai DT", 
+    "country": "MY", 
+    "longitude": 103.60299682617188, 
+    "latitude": 1.680649995803833, 
+    "store_id": 1014778
+  }, 
+  {
+    "city": "Labuan", 
+    "name": "Labuan Airport", 
+    "country": "MY", 
+    "longitude": 115.26206970214844, 
+    "latitude": 5.295581817626953, 
+    "store_id": 1015389
+  }, 
+  {
+    "city": "Cambridge", 
+    "name": "Cambridge - Regent St", 
+    "country": "GB", 
+    "longitude": -0.3043619990348816, 
+    "latitude": 52.54508972167969, 
+    "store_id": 1015476
+  }, 
+  {
+    "city": "Beltsville", 
+    "name": "Beltsville Route 1", 
+    "country": "US", 
+    "longitude": -76.91022491455078, 
+    "latitude": 39.03329086303711, 
+    "store_id": 1015657
+  }, 
+  {
+    "city": "Petaling Jaya Selangor", 
+    "name": "Amcorp Tower", 
+    "country": "MY", 
+    "longitude": 101.64734649658203, 
+    "latitude": 3.104569911956787, 
+    "store_id": 1015632
+  }, 
+  {
+    "city": "Toronto", 
+    "name": "65 Queen Street West Concourse", 
+    "country": "CA", 
+    "longitude": -79.38241577148438, 
+    "latitude": 43.65143966674805, 
+    "store_id": 1015780
+  }, 
+  {
+    "city": "Kuala Lumpur", 
+    "name": "Ampang DT", 
+    "country": "MY", 
+    "longitude": 101.44361114501953, 
+    "latitude": 3.0934789180755615, 
+    "store_id": 1015847
+  }, 
+  {
+    "city": "Savannah", 
+    "name": "135 W. Bay Street", 
+    "country": "US", 
+    "longitude": -81.09347534179688, 
+    "latitude": 32.081504821777344, 
+    "store_id": 1015870
+  }, 
+  {
+    "city": "Brampton", 
+    "name": "190 Queen Street East", 
+    "country": "CA", 
+    "longitude": -79.75211334228516, 
+    "latitude": 43.69373321533203, 
+    "store_id": 1015894
+  }, 
+  {
+    "city": "Monterrey", 
+    "name": "Pabellon M", 
+    "country": "MX", 
+    "longitude": -100.41191864013672, 
+    "latitude": 25.77474021911621, 
+    "store_id": 1015789
+  }, 
+  {
+    "city": "Oakwood", 
+    "name": "Mundy Mill Road and Thurmond Tanner", 
+    "country": "US", 
+    "longitude": -83.8699722290039, 
+    "latitude": 34.22941589355469, 
+    "store_id": 1015906
+  }, 
+  {
+    "city": "Puebla", 
+    "name": "31 Oriente", 
+    "country": "MX", 
+    "longitude": -98.20193481445312, 
+    "latitude": 19.026338577270508, 
+    "store_id": 1015925
+  }, 
+  {
+    "city": "Semarang", 
+    "name": "Rest Area KM 22 200 Semarang Solo", 
+    "country": "ID", 
+    "longitude": 110.25250244140625, 
+    "latitude": -7.073694229125977, 
+    "store_id": 1015933
+  }, 
+  {
+    "city": "Mexico", 
+    "name": "Miyana", 
+    "country": "MX", 
+    "longitude": -99.20133972167969, 
+    "latitude": 19.43966293334961, 
+    "store_id": 1015951
+  }, 
+  {
+    "city": "Chicago", 
+    "name": "63rd & Halsted", 
+    "country": "US", 
+    "longitude": -87.64551544189453, 
+    "latitude": 41.780181884765625, 
+    "store_id": 1016052
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u540c\u6d4e\u5357\u8def\u5e97", 
+    "country": "CN", 
+    "longitude": 116.53067779541016, 
+    "latitude": 39.78456115722656, 
+    "store_id": 1016148
+  }, 
+  {
+    "city": "San Pedro Garza Garcia", 
+    "name": "La Aurora", 
+    "country": "MX", 
+    "longitude": -100.32975769042969, 
+    "latitude": 25.650043487548828, 
+    "store_id": 1016255
+  }, 
+  {
+    "city": "Pilar", 
+    "name": "HUA", 
+    "country": "AR", 
+    "longitude": -58.86471176147461, 
+    "latitude": -34.458473205566406, 
+    "store_id": 1015368
+  }, 
+  {
+    "city": "New York", 
+    "name": "85th & Madison", 
+    "country": "US", 
+    "longitude": -73.95956420898438, 
+    "latitude": 40.78013610839844, 
+    "store_id": 1015661
+  }, 
+  {
+    "city": "New York", 
+    "name": "Brookfield Place 2", 
+    "country": "US", 
+    "longitude": -74.01543426513672, 
+    "latitude": 40.714168548583984, 
+    "store_id": 1015738
+  }, 
+  {
+    "city": "Oak Forest", 
+    "name": "159th & Cicero", 
+    "country": "US", 
+    "longitude": -87.73735046386719, 
+    "latitude": 41.603843688964844, 
+    "store_id": 1015891
+  }, 
+  {
+    "city": "Wroclaw", 
+    "name": "Galeria Dominikanska", 
+    "country": "PL", 
+    "longitude": 17.040403366088867, 
+    "latitude": 51.10832214355469, 
+    "store_id": 1015828
+  }, 
+  {
+    "city": "Akron", 
+    "name": "West Market Street", 
+    "country": "US", 
+    "longitude": -81.57841491699219, 
+    "latitude": 41.11378479003906, 
+    "store_id": 1015905
+  }, 
+  {
+    "city": "Baton Rouge", 
+    "name": "Airline and Antioch", 
+    "country": "US", 
+    "longitude": -91.01301574707031, 
+    "latitude": 30.361425399780273, 
+    "store_id": 1015920
+  }, 
+  {
+    "city": "Lansing", 
+    "name": "Lansing - Cedar & I-96", 
+    "country": "US", 
+    "longitude": -84.53724670410156, 
+    "latitude": 42.6596794128418, 
+    "store_id": 1016012
+  }, 
+  {
+    "city": "Oshawa", 
+    "name": "Oshawa Centre Food Court", 
+    "country": "CA", 
+    "longitude": -78.87958526611328, 
+    "latitude": 43.89029312133789, 
+    "store_id": 1016020
+  }, 
+  {
+    "city": "Eagle", 
+    "name": "Hwy 44 and Edgewood - Eagle", 
+    "country": "US", 
+    "longitude": -116.33406829833984, 
+    "latitude": 43.68736267089844, 
+    "store_id": 1016072
+  }, 
+  {
+    "city": "Gaylord", 
+    "name": "Gaylord-W Main Street", 
+    "country": "US", 
+    "longitude": -84.69285583496094, 
+    "latitude": 45.028053283691406, 
+    "store_id": 1016076
+  }, 
+  {
+    "city": "MEXICO", 
+    "name": "PARQUE DELTA III", 
+    "country": "MX", 
+    "longitude": -99.1550064086914, 
+    "latitude": 19.402313232421875, 
+    "store_id": 1016215
+  }, 
+  {
+    "city": "Belfast", 
+    "name": "Belfast City Airport (airside)", 
+    "country": "GB", 
+    "longitude": -5.873047828674316, 
+    "latitude": 54.615806579589844, 
+    "store_id": 1016117
+  }, 
+  {
+    "city": "Fredericksburg", 
+    "name": "Fredericksburg, Warrenton Road", 
+    "country": "US", 
+    "longitude": -77.51165008544922, 
+    "latitude": 38.35470962524414, 
+    "store_id": 1007195
+  }, 
+  {
+    "city": "\u5e38\u5dde\u5e02", 
+    "name": "\u5e38\u5dde\u6708\u661f\u73af\u7403\u6e2f\u5357\u533a\u5e97", 
+    "country": "CN", 
+    "longitude": 119.98033142089844, 
+    "latitude": 31.839275360107422, 
+    "store_id": 1011893
+  }, 
+  {
+    "city": "Singapore", 
+    "name": "MBS", 
+    "country": "SG", 
+    "longitude": 103.85945892333984, 
+    "latitude": 1.2840219736099243, 
+    "store_id": 1012016
+  }, 
+  {
+    "city": "\u5927\u8fde\u5e02", 
+    "name": "\u5927\u8fde\u6052\u9686\u5e97", 
+    "country": "CN", 
+    "longitude": 121.60984802246094, 
+    "latitude": 38.906314849853516, 
+    "store_id": 1012245
+  }, 
+  {
+    "city": "\u8944\u6a0a\u5e02", 
+    "name": "\u8944\u9633\u5929\u5143\u56db\u5b63\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 112.15074157714844, 
+    "latitude": 32.04145050048828, 
+    "store_id": 1012371
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u4e50\u591a\u6e2f\u5e97", 
+    "country": "CN", 
+    "longitude": 116.18929290771484, 
+    "latitude": 40.22857666015625, 
+    "store_id": 1013043
+  }, 
+  {
+    "city": "\u6df1\u5733\u5e02", 
+    "name": "\u6df1\u5733\u540e\u6d77\u541b\u5c1a\u5e97", 
+    "country": "CN", 
+    "longitude": 113.94017028808594, 
+    "latitude": 22.506927490234375, 
+    "store_id": 1013192
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u4e16\u7eaa\u5927\u90fd\u4f1aB1\u5e97", 
+    "country": "CN", 
+    "longitude": 121.5276870727539, 
+    "latitude": 31.229555130004883, 
+    "store_id": 1013388
+  }, 
+  {
+    "city": "\u6c55\u5934\u5e02", 
+    "name": "\u6c55\u5934\u6f84\u6d77\u731b\u72ee\u56fd\u9645\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 116.76480865478516, 
+    "latitude": 23.47446632385254, 
+    "store_id": 1013545
+  }, 
+  {
+    "city": "\u5927\u8fde\u5e02", 
+    "name": "\u5927\u8fde\u6052\u96862\u5e97", 
+    "country": "CN", 
+    "longitude": 121.6092300415039, 
+    "latitude": 38.90726089477539, 
+    "store_id": 1013844
+  }, 
+  {
+    "city": "Houston", 
+    "name": "IAH - TERMINAL A NORTH", 
+    "country": "US", 
+    "longitude": -95.34870147705078, 
+    "latitude": 29.98735237121582, 
+    "store_id": 1013994
+  }, 
+  {
+    "city": "\u5357\u901a\u5e02", 
+    "name": "\u5357\u901a\u534e\u5f3a\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 120.8614501953125, 
+    "latitude": 32.04053497314453, 
+    "store_id": 1014001
+  }, 
+  {
+    "city": "\u6df1\u5733\u5e02", 
+    "name": "\u6df1\u5733\u5742\u7530\u7b2c\u4e94\u56ed\u5e97", 
+    "country": "CN", 
+    "longitude": 114.07260131835938, 
+    "latitude": 22.616867065429688, 
+    "store_id": 1014149
+  }, 
+  {
+    "city": "Suzhou", 
+    "name": "Suzhou Modern Media Plaza", 
+    "country": "CN", 
+    "longitude": 120.73469543457031, 
+    "latitude": 31.323991775512695, 
+    "store_id": 1014085
+  }, 
+  {
+    "city": "Toyota", 
+    "name": "Toyota Uehara", 
+    "country": "JP", 
+    "longitude": 137.1648712158203, 
+    "latitude": 35.1086540222168, 
+    "store_id": 1014187
+  }, 
+  {
+    "city": "\u5e7f\u5dde\u5e02", 
+    "name": "\u5e7f\u5dde\u9ad8\u5fb7\u7f6e\u5730\u79cb\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 113.32592010498047, 
+    "latitude": 23.119855880737305, 
+    "store_id": 1014229
+  }, 
+  {
+    "city": "\u5e7f\u5dde\u5e02", 
+    "name": "\u5e7f\u5dde\u65b0\u9e3f\u57fa\u5929\u6c47\u5e7f\u573a1\u5e97", 
+    "country": "CN", 
+    "longitude": 113.33145904541016, 
+    "latitude": 23.116310119628906, 
+    "store_id": 1014230
+  }, 
+  {
+    "city": "\u5927\u8fde\u5e02", 
+    "name": "\u5927\u8fde\u673a\u573a\u5b89\u68c0\u5916\u5e97", 
+    "country": "CN", 
+    "longitude": 121.54267883300781, 
+    "latitude": 38.962371826171875, 
+    "store_id": 1014322
+  }, 
+  {
+    "city": "\u5927\u8fde\u5e02", 
+    "name": "\u5927\u8fde\u673a\u573a\u5b89\u68c0\u5185\u5e97", 
+    "country": "CN", 
+    "longitude": 121.54437255859375, 
+    "latitude": 38.962677001953125, 
+    "store_id": 1014323
+  }, 
+  {
+    "city": "\u676d\u5dde\u5e02", 
+    "name": "\u676d\u5dde\u5229\u661f1157\u5e97", 
+    "country": "CN", 
+    "longitude": 120.16939544677734, 
+    "latitude": 30.228130340576172, 
+    "store_id": 1014530
+  }, 
+  {
+    "city": "Shanghai", 
+    "name": "Qi Lian Shan Rd", 
+    "country": "CN", 
+    "longitude": 121.38140869140625, 
+    "latitude": 31.3204402923584, 
+    "store_id": 1014623
+  }, 
+  {
+    "city": "shanghai", 
+    "name": "Guokang Rd Store", 
+    "country": "CN", 
+    "longitude": 121.505126953125, 
+    "latitude": 31.28629493713379, 
+    "store_id": 1014661
+  }, 
+  {
+    "city": "\u91d1\u534e\u5e02", 
+    "name": "\u91d1\u534e\u6a2a\u5e97\u4e07\u76db\u8857\u5e97", 
+    "country": "CN", 
+    "longitude": 120.3158187866211, 
+    "latitude": 29.156282424926758, 
+    "store_id": 1014732
+  }, 
+  {
+    "city": "Madrid", 
+    "name": "Plaza de San Miguel", 
+    "country": "ES", 
+    "longitude": -3.7085158824920654, 
+    "latitude": 40.415767669677734, 
+    "store_id": 1014765
+  }, 
+  {
+    "city": "\u5357\u4eac\u5e02", 
+    "name": "\u5357\u4eac\u7f24\u6da6\u6c47\u8d2d\u7269\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 118.72935485839844, 
+    "latitude": 31.992734909057617, 
+    "store_id": 1014802
+  }, 
+  {
+    "city": "Kunshan", 
+    "name": "Kunshan ZN City Plaza Store -GF", 
+    "country": "CN", 
+    "longitude": 120.9779052734375, 
+    "latitude": 31.402645111083984, 
+    "store_id": 1014814
+  }, 
+  {
+    "city": "huzhou", 
+    "name": "Huzhou nanxun zhebei - GF", 
+    "country": "CN", 
+    "longitude": 120.4090576171875, 
+    "latitude": 30.864219665527344, 
+    "store_id": 1014821
+  }, 
+  {
+    "city": "qu zhou", 
+    "name": "Quzhou Guojin  Center - GF", 
+    "country": "CN", 
+    "longitude": 118.87198638916016, 
+    "latitude": 28.95916748046875, 
+    "store_id": 1014834
+  }, 
+  {
+    "city": "Tampa", 
+    "name": "TPA - AIRSIDE F RESERVE", 
+    "country": "US", 
+    "longitude": -82.53561401367188, 
+    "latitude": 27.974321365356445, 
+    "store_id": 1014875
+  }, 
+  {
+    "city": "Kobe", 
+    "name": "Kansai University Umeda", 
+    "country": "JP", 
+    "longitude": 135.2613983154297, 
+    "latitude": 34.719547271728516, 
+    "store_id": 1014937
+  }, 
+  {
+    "city": "Hamamatsu", 
+    "name": "Hamamatsu Handayama", 
+    "country": "JP", 
+    "longitude": 137.74285888671875, 
+    "latitude": 34.76478958129883, 
+    "store_id": 1015025
+  }, 
+  {
+    "city": "\u5b81\u6ce2\u5e02", 
+    "name": "\u5b81\u6ce2\u9547\u6d77\u4e07\u79d11902\u5e97", 
+    "country": "CN", 
+    "longitude": 121.625, 
+    "latitude": 29.927261352539062, 
+    "store_id": 1015016
+  }, 
+  {
+    "city": "Westminster", 
+    "name": "609 Baltimore Blvd", 
+    "country": "US", 
+    "longitude": -76.97503662109375, 
+    "latitude": 39.564395904541016, 
+    "store_id": 1015110
+  }, 
+  {
+    "city": "Shanghai", 
+    "name": "Qibao Powerlong Mall 1F Store", 
+    "country": "CN", 
+    "longitude": 121.35569763183594, 
+    "latitude": 31.157241821289062, 
+    "store_id": 1015164
+  }, 
+  {
+    "city": "Shanghai", 
+    "name": "Qibao Powerlong Mall 12F Store", 
+    "country": "CN", 
+    "longitude": 121.35493469238281, 
+    "latitude": 31.15869140625, 
+    "store_id": 1015165
+  }, 
+  {
+    "city": "hangzhou", 
+    "name": "Hangzhou Tianyang D32 - GF", 
+    "country": "CN", 
+    "longitude": 120.13636016845703, 
+    "latitude": 30.314512252807617, 
+    "store_id": 1015286
+  }, 
+  {
+    "city": "Wenzhou", 
+    "name": "Wenzhou Talent Building Store-GF", 
+    "country": "CN", 
+    "longitude": 120.69770050048828, 
+    "latitude": 28.004135131835938, 
+    "store_id": 1015310
+  }, 
+  {
+    "city": "Nantong", 
+    "name": "Nantong Zhongnan Dept. Store-GF", 
+    "country": "CN", 
+    "longitude": 120.89570617675781, 
+    "latitude": 31.969858169555664, 
+    "store_id": 1015327
+  }, 
+  {
+    "city": "Boston", 
+    "name": "Copley Marriott", 
+    "country": "US", 
+    "longitude": -71.07898712158203, 
+    "latitude": 42.34706115722656, 
+    "store_id": 1015348
+  }, 
+  {
+    "city": "SANTA ROSA", 
+    "name": "Epicenter", 
+    "country": "US", 
+    "longitude": -122.74662780761719, 
+    "latitude": 38.46767807006836, 
+    "store_id": 1015451
+  }, 
+  {
+    "city": "Mishima", 
+    "name": "Mishima Tamagawa", 
+    "country": "JP", 
+    "longitude": 138.91476440429688, 
+    "latitude": 35.108856201171875, 
+    "store_id": 1015555
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "1699\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 121.402587890625, 
+    "latitude": 31.18766212463379, 
+    "store_id": 1015558
+  }, 
+  {
+    "city": "\u5357\u4eac\u5e02", 
+    "name": "\u5357\u4eac\u5efa\u90ba\u4e07\u8fbe\u767e\u8d27\u5e97", 
+    "country": "CN", 
+    "longitude": 118.73690795898438, 
+    "latitude": 32.03232955932617, 
+    "store_id": 1015610
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u6708\u661f\u73af\u7403\u6e2f1F\u5e97", 
+    "country": "CN", 
+    "longitude": 121.41104888916016, 
+    "latitude": 31.231088638305664, 
+    "store_id": 1015618
+  }, 
+  {
+    "city": "Jinhua", 
+    "name": "Jinhua Yiwu wanda Plaza-GF", 
+    "country": "CN", 
+    "longitude": 120.04255676269531, 
+    "latitude": 29.278615951538086, 
+    "store_id": 1015680
+  }, 
+  {
+    "city": "\u82cf\u5dde\u5e02", 
+    "name": "\u82cf\u5dde\u8309\u8389\u82b1\u5047\u65e5\u5e97", 
+    "country": "CN", 
+    "longitude": 120.6034927368164, 
+    "latitude": 31.309738159179688, 
+    "store_id": 1015683
+  }, 
+  {
+    "city": "\u53f0\u5dde\u5e02", 
+    "name": "\u53f0\u5dde\u670d\u52a1\u533a\u4e1c\u533a\u5e97", 
+    "country": "CN", 
+    "longitude": 121.22775268554688, 
+    "latitude": 28.876861572265625, 
+    "store_id": 1015705
+  }, 
+  {
+    "city": "Wheaton", 
+    "name": "Wheaton Danada", 
+    "country": "US", 
+    "longitude": -88.10315704345703, 
+    "latitude": 41.831424713134766, 
+    "store_id": 1015757
+  }, 
+  {
+    "city": "Burbank", 
+    "name": "Providence Saint Joseph Burbank", 
+    "country": "US", 
+    "longitude": -118.32833862304688, 
+    "latitude": 34.15766143798828, 
+    "store_id": 1015801
+  }, 
+  {
+    "city": "Suzhou", 
+    "name": "\u82cf\u5dde\u4e45\u5149\u767e\u8d27\u5e97", 
+    "country": "CN", 
+    "longitude": 120.71422576904297, 
+    "latitude": 31.319650650024414, 
+    "store_id": 1015820
+  }, 
+  {
+    "city": "Reston", 
+    "name": "Reston Station", 
+    "country": "US", 
+    "longitude": -77.33832550048828, 
+    "latitude": 38.94843673706055, 
+    "store_id": 1015885
+  }, 
+  {
+    "city": "Edmonton", 
+    "name": "GRAND VILLA CASINO", 
+    "country": "CA", 
+    "longitude": -113.49411010742188, 
+    "latitude": 53.54655075073242, 
+    "store_id": 1015823
+  }, 
+  {
+    "city": "Huzhou", 
+    "name": "Huzhou Zhuangyuan Street-1F2F", 
+    "country": "CN", 
+    "longitude": 120.094970703125, 
+    "latitude": 30.863576889038086, 
+    "store_id": 1015825
+  }, 
+  {
+    "city": "Ningbo", 
+    "name": "Ningbo ZJU Institute of Tech-GF", 
+    "country": "CN", 
+    "longitude": 121.57530975341797, 
+    "latitude": 29.814544677734375, 
+    "store_id": 1015830
+  }, 
+  {
+    "city": "Shanghai", 
+    "name": "AnBo Road Store", 
+    "country": "CN", 
+    "longitude": 121.5307388305664, 
+    "latitude": 31.302284240722656, 
+    "store_id": 1015840
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u767e\u8054\u4e16\u7eaa\u8d2d\u7269\u4e2d\u5fc3B1\u5e97", 
+    "country": "CN", 
+    "longitude": 121.52684783935547, 
+    "latitude": 31.229890823364258, 
+    "store_id": 1015841
+  }, 
+  {
+    "city": "\u82cf\u5dde\u5e02", 
+    "name": "\u82cf\u5dde\u752a\u76f4\u4e07\u5609\u751f\u6d3b\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 120.8662109375, 
+    "latitude": 31.26677894592285, 
+    "store_id": 1015843
+  }, 
+  {
+    "city": "\u5b81\u6ce2\u5e02", 
+    "name": "\u5b81\u6ce2\u5b81\u6d77\u897f\u5b50\u56fd\u9645\u5e97", 
+    "country": "CN", 
+    "longitude": 121.44136810302734, 
+    "latitude": 29.304838180541992, 
+    "store_id": 1015844
+  }, 
+  {
+    "city": "Segamat Johor", 
+    "name": "Segamat Sri Utama", 
+    "country": "MY", 
+    "longitude": 102.82318115234375, 
+    "latitude": 2.514364004135132, 
+    "store_id": 1015883
+  }, 
+  {
+    "city": "Tomah", 
+    "name": "Tomah", 
+    "country": "US", 
+    "longitude": -90.50819396972656, 
+    "latitude": 44.017417907714844, 
+    "store_id": 1015901
+  }, 
+  {
+    "city": "Buffalo", 
+    "name": "Hyatt Buffalo", 
+    "country": "US", 
+    "longitude": -78.87408447265625, 
+    "latitude": 42.888275146484375, 
+    "store_id": 1015912
+  }, 
+  {
+    "city": "\u4e1c\u839e\u5e02", 
+    "name": "\u4e1c\u839e\u6d77\u5fb7\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 113.75898742675781, 
+    "latitude": 23.01177215576172, 
+    "store_id": 1015946
+  }, 
+  {
+    "city": "\u53a6\u95e8\u5e02", 
+    "name": "\u53a6\u95e8\u96c6\u7f8e\u4e07\u79d1\u91cc\u5e97", 
+    "country": "CN", 
+    "longitude": 118.06260681152344, 
+    "latitude": 24.56595230102539, 
+    "store_id": 1015957
+  }, 
+  {
+    "city": "Denver", 
+    "name": "Breckenridge at Sloans", 
+    "country": "US", 
+    "longitude": -105.04166412353516, 
+    "latitude": 39.74034881591797, 
+    "store_id": 1015958
+  }, 
+  {
+    "city": "\u65e5\u7167\u5e02", 
+    "name": "\u65e5\u7167\u4e07\u8c61\u6c47\u5e97", 
+    "country": "CN", 
+    "longitude": 119.53143310546875, 
+    "latitude": 35.41991424560547, 
+    "store_id": 1015994
+  }, 
+  {
+    "city": "Dallas", 
+    "name": "KROGER DALLAS #673", 
+    "country": "US", 
+    "longitude": -84.82286834716797, 
+    "latitude": 33.9105224609375, 
+    "store_id": 1015949
+  }, 
+  {
+    "city": "Creve Coeur", 
+    "name": "DIERBERGS WEST OAK CREVE COEUR SBUX", 
+    "country": "US", 
+    "longitude": -90.43583679199219, 
+    "latitude": 38.67136764526367, 
+    "store_id": 1015966
+  }, 
+  {
+    "city": "ShangHai", 
+    "name": "Arch B2 store", 
+    "country": "CN", 
+    "longitude": 121.40276336669922, 
+    "latitude": 31.2092227935791, 
+    "store_id": 1015982
+  }, 
+  {
+    "city": "Chiyoda-ku", 
+    "name": "Iidabashi Sakura Terrace ANNEX", 
+    "country": "JP", 
+    "longitude": 139.7437744140625, 
+    "latitude": 35.69900131225586, 
+    "store_id": 1015993
+  }, 
+  {
+    "city": "\u6df1\u5733\u5e02", 
+    "name": "\u6df1\u5733\u8054\u6295\u4e1c\u65b9\u5e97", 
+    "country": "CN", 
+    "longitude": 113.8592300415039, 
+    "latitude": 22.759809494018555, 
+    "store_id": 1016008
+  }, 
+  {
+    "city": "Cabazon", 
+    "name": "Seminole & Morongo Trail", 
+    "country": "US", 
+    "longitude": -116.80498504638672, 
+    "latitude": 33.921844482421875, 
+    "store_id": 1016017
+  }, 
+  {
+    "city": "Cary", 
+    "name": "Northwest Hwy & Feinberg Dr", 
+    "country": "US", 
+    "longitude": -88.254638671875, 
+    "latitude": 42.216712951660156, 
+    "store_id": 1016022
+  }, 
+  {
+    "city": "Oak Creek", 
+    "name": "6th & Drexel", 
+    "country": "US", 
+    "longitude": -87.92012023925781, 
+    "latitude": 42.90170669555664, 
+    "store_id": 1016030
+  }, 
+  {
+    "city": "Naples", 
+    "name": "Collier & Triangle", 
+    "country": "US", 
+    "longitude": -81.69768524169922, 
+    "latitude": 26.066551208496094, 
+    "store_id": 1016048
+  }, 
+  {
+    "city": "New York", 
+    "name": "Broadway and 9th", 
+    "country": "US", 
+    "longitude": -73.99205780029297, 
+    "latitude": 40.731361389160156, 
+    "store_id": 1016069
+  }, 
+  {
+    "city": "Gastonia", 
+    "name": "Harris Teeter Gastonia # 281", 
+    "country": "US", 
+    "longitude": -81.1588134765625, 
+    "latitude": 35.217315673828125, 
+    "store_id": 1016107
+  }, 
+  {
+    "city": "\u5317\u4eac\u5e02", 
+    "name": "\u5317\u4eac\u91d1\u5b9d\u6c47\u5e97", 
+    "country": "CN", 
+    "longitude": 116.42132568359375, 
+    "latitude": 39.915340423583984, 
+    "store_id": 1016136
+  }, 
+  {
+    "city": "\u5927\u8fde\u5e02", 
+    "name": "\u5927\u8fde\u53cb\u8c0a\u5546\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 121.6458969116211, 
+    "latitude": 38.92239761352539, 
+    "store_id": 1016141
+  }, 
+  {
+    "city": "\u4f5b\u5c71\u5e02", 
+    "name": "\u4f5b\u5c71\u4e2d\u6d77\u73af\u5b87\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 113.15574645996094, 
+    "latitude": 23.045011520385742, 
+    "store_id": 1016151
+  }, 
+  {
+    "city": "\u4e09\u4e9a\u5e02", 
+    "name": "\u4e09\u4e9a\u8fce\u5bbe\u8def\u5206\u5e97", 
+    "country": "CN", 
+    "longitude": 109.50161743164062, 
+    "latitude": 18.26685905456543, 
+    "store_id": 1016170
+  }, 
+  {
+    "city": "Kennewick", 
+    "name": "COLUMBIA CENTER MALL", 
+    "country": "US", 
+    "longitude": -119.22797393798828, 
+    "latitude": 46.225990295410156, 
+    "store_id": 1015997
+  }, 
+  {
+    "city": "Bangkok", 
+    "name": "Ideo Q Chula-Samyan", 
+    "country": "TH", 
+    "longitude": 100.52672576904297, 
+    "latitude": 13.733341217041016, 
+    "store_id": 1015999
+  }, 
+  {
+    "city": "Fort Drum", 
+    "name": "AFFES @ Fort Drum", 
+    "country": "US", 
+    "longitude": -75.8053207397461, 
+    "latitude": 44.045310974121094, 
+    "store_id": 1016077
+  }, 
+  {
+    "city": "\u5357\u4eac\u5e02", 
+    "name": "\u5357\u4eac\u666f\u67ab\u5e7f\u573aB1\u5e97", 
+    "country": "CN", 
+    "longitude": 118.8208999633789, 
+    "latitude": 31.9290828704834, 
+    "store_id": 1016084
+  }, 
+  {
+    "city": "Prachuap Khirikhan", 
+    "name": "Blu Port Hua Hin", 
+    "country": "TH", 
+    "longitude": 99.96234130859375, 
+    "latitude": 12.548027038574219, 
+    "store_id": 1016113
+  }, 
+  {
+    "city": "\u5357\u4eac\u5e02", 
+    "name": "\u5357\u4eac21\u4e16\u7eaa\u592a\u9633\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 118.82235717773438, 
+    "latitude": 31.925762176513672, 
+    "store_id": 1016134
+  }, 
+  {
+    "city": "Zhoushan", 
+    "name": "Zhoushan Putuo Meilehui-GF", 
+    "country": "CN", 
+    "longitude": 122.32156372070312, 
+    "latitude": 29.96990394592285, 
+    "store_id": 1016138
+  }, 
+  {
+    "city": "Shanghai", 
+    "name": "1788 Plaza Store", 
+    "country": "CN", 
+    "longitude": 121.44335174560547, 
+    "latitude": 31.222171783447266, 
+    "store_id": 1016143
+  }, 
+  {
+    "city": "Bayamon", 
+    "name": "Plaza del Sol Kiosk", 
+    "country": "PR", 
+    "longitude": -66.16320037841797, 
+    "latitude": 18.4077205657959, 
+    "store_id": 1016154
+  }, 
+  {
+    "city": "\u5357\u901a\u5e02", 
+    "name": "\u5357\u901a\u4eba\u6c11\u8def\u91d1\u9e70\u5e97", 
+    "country": "CN", 
+    "longitude": 120.86785888671875, 
+    "latitude": 32.01726150512695, 
+    "store_id": 1016155
+  }, 
+  {
+    "city": "Jonesboro", 
+    "name": "ASU Reng Student Union", 
+    "country": "US", 
+    "longitude": -90.67718505859375, 
+    "latitude": 35.84306335449219, 
+    "store_id": 1016156
+  }, 
+  {
+    "city": "\u5357\u901a\u5e02", 
+    "name": "G15\u9ad8\u901f\u82cf\u901a\u5927\u6865\u670d\u52a1\u533a\u4e1c\u533a\u5e97", 
+    "country": "CN", 
+    "longitude": 120.99272155761719, 
+    "latitude": 31.8669376373291, 
+    "store_id": 1016174
+  }, 
+  {
+    "city": "\u5357\u901a\u5e02", 
+    "name": "G15\u9ad8\u901f\u82cf\u901a\u5927\u6865\u670d\u52a1\u533a\u897f\u533a\u5e97", 
+    "country": "CN", 
+    "longitude": 120.99140167236328, 
+    "latitude": 31.868698120117188, 
+    "store_id": 1016175
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u6d66\u5efa\u8def\u5e97", 
+    "country": "CN", 
+    "longitude": 121.52001190185547, 
+    "latitude": 31.208547592163086, 
+    "store_id": 1016180
+  }, 
+  {
+    "city": "\u6b66\u6c49\u5e02", 
+    "name": "\u6b66\u6c49\u5357\u6e56\u65f6\u5c1a\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 114.38754272460938, 
+    "latitude": 30.47854232788086, 
+    "store_id": 1016228
+  }, 
+  {
+    "city": "Westminster", 
+    "name": "92nd and Sheridan", 
+    "country": "US", 
+    "longitude": -105.05390930175781, 
+    "latitude": 39.8674201965332, 
+    "store_id": 1016251
+  }, 
+  {
+    "city": "\u5357\u4eac\u5e02", 
+    "name": "\u5357\u4eac\u666f\u67ab\u5e7f\u573a1F\u5e97", 
+    "country": "CN", 
+    "longitude": 118.8208236694336, 
+    "latitude": 31.930408477783203, 
+    "store_id": 1016194
+  }, 
+  {
+    "city": "SALT LAKE CITY", 
+    "name": "HUNTSMAN CANCER HOSPTIAL", 
+    "country": "US", 
+    "longitude": -111.83605194091797, 
+    "latitude": 40.7735710144043, 
+    "store_id": 1016210
+  }, 
+  {
+    "city": "Bangkok", 
+    "name": "Ideo Mobi Charan-Interchange", 
+    "country": "TH", 
+    "longitude": 100.47197723388672, 
+    "latitude": 13.762125968933105, 
+    "store_id": 1016248
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u91d1\u9e70\u5e97", 
+    "country": "CN", 
+    "longitude": 121.45494842529297, 
+    "latitude": 31.22831153869629, 
+    "store_id": 1016371
+  }, 
+  {
+    "city": "Astana", 
+    "name": "Khan Shatyr SC", 
+    "country": "KZ", 
+    "longitude": 71.40353393554688, 
+    "latitude": 51.13251495361328, 
+    "store_id": 1016374
+  }, 
+  {
+    "city": "San Juan", 
+    "name": "Plaza Las Americas 2", 
+    "country": "PR", 
+    "longitude": -66.07424926757812, 
+    "latitude": 18.421510696411133, 
+    "store_id": 1016375
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "Living World", 
+    "country": "ID", 
+    "longitude": 106.88398742675781, 
+    "latitude": -6.149478912353516, 
+    "store_id": 1007897
+  }, 
+  {
+    "city": "Pekanbaru", 
+    "name": "Pekanbaru Airport", 
+    "country": "ID", 
+    "longitude": 98.93016052246094, 
+    "latitude": 1.9818799495697021, 
+    "store_id": 1008045
+  }, 
+  {
+    "city": "St. Robert", 
+    "name": "S Outer Rd & I-44", 
+    "country": "US", 
+    "longitude": -92.1416015625, 
+    "latitude": 37.82279968261719, 
+    "store_id": 1008997
+  }, 
+  {
+    "city": "Bethel Park", 
+    "name": "South Hills Village", 
+    "country": "US", 
+    "longitude": -80.05603790283203, 
+    "latitude": 40.342018127441406, 
+    "store_id": 1009466
+  }, 
+  {
+    "city": "San Antonio", 
+    "name": "Bandera & Huebner", 
+    "country": "US", 
+    "longitude": -98.62522888183594, 
+    "latitude": 29.500112533569336, 
+    "store_id": 1009855
+  }, 
+  {
+    "city": "Gwangju", 
+    "name": "Gwangju Sangmu Jungangro", 
+    "country": "KR", 
+    "longitude": 126.84884643554688, 
+    "latitude": 35.15059280395508, 
+    "store_id": 1012107
+  }, 
+  {
+    "city": "Otsu", 
+    "name": "VIERRA Otsu", 
+    "country": "JP", 
+    "longitude": 135.86465454101562, 
+    "latitude": 35.003387451171875, 
+    "store_id": 1014581
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Namyoungdong", 
+    "country": "KR", 
+    "longitude": 126.97230529785156, 
+    "latitude": 37.542823791503906, 
+    "store_id": 1015629
+  }, 
+  {
+    "city": "Vadnais Heights", 
+    "name": "Hwy 96 and Centerville Road", 
+    "country": "US", 
+    "longitude": -93.05712890625, 
+    "latitude": 45.07881164550781, 
+    "store_id": 1015750
+  }, 
+  {
+    "city": "York", 
+    "name": "Kenneth Road, York", 
+    "country": "US", 
+    "longitude": -76.76686096191406, 
+    "latitude": 39.97523498535156, 
+    "store_id": 1015773
+  }, 
+  {
+    "city": "Los Angeles", 
+    "name": "Griffith Park & Hyperion", 
+    "country": "US", 
+    "longitude": -118.27311706542969, 
+    "latitude": 34.1076545715332, 
+    "store_id": 1015884
+  }, 
+  {
+    "city": "Denver", 
+    "name": "Alameda and Federal", 
+    "country": "US", 
+    "longitude": -105.02252197265625, 
+    "latitude": 39.71092987060547, 
+    "store_id": 1015915
+  }, 
+  {
+    "city": "Walnut Creek", 
+    "name": "Ygnacio & Oak Grove", 
+    "country": "US", 
+    "longitude": -122.01625061035156, 
+    "latitude": 37.928348541259766, 
+    "store_id": 1016011
+  }, 
+  {
+    "city": "Marysville", 
+    "name": "64th St NE & 47th Ave NE", 
+    "country": "US", 
+    "longitude": -122.16719055175781, 
+    "latitude": 48.052146911621094, 
+    "store_id": 1016015
+  }, 
+  {
+    "city": "Selma", 
+    "name": "Floral & Hwy 99", 
+    "country": "US", 
+    "longitude": -119.63213348388672, 
+    "latitude": 36.57683181762695, 
+    "store_id": 1016018
+  }, 
+  {
+    "city": "Alpharetta", 
+    "name": "North Point & Haynes Bridge", 
+    "country": "US", 
+    "longitude": -84.28724670410156, 
+    "latitude": 34.049564361572266, 
+    "store_id": 1016037
+  }, 
+  {
+    "city": "Muscatine", 
+    "name": "Hwy 61 Muscatine", 
+    "country": "US", 
+    "longitude": -91.0225601196289, 
+    "latitude": 41.45634460449219, 
+    "store_id": 1016044
+  }, 
+  {
+    "city": "Allen", 
+    "name": "Alma & Exchange", 
+    "country": "US", 
+    "longitude": -96.69773864746094, 
+    "latitude": 33.11480712890625, 
+    "store_id": 1016063
+  }, 
+  {
+    "city": "Pharr", 
+    "name": "E. Ridge Rd. & S. Cage Blvd", 
+    "country": "US", 
+    "longitude": -98.18547821044922, 
+    "latitude": 26.18115234375, 
+    "store_id": 1016067
+  }, 
+  {
+    "city": "Olympia", 
+    "name": "Martin Way & Sleater Kinney", 
+    "country": "US", 
+    "longitude": -122.83231353759766, 
+    "latitude": 47.04780960083008, 
+    "store_id": 1016073
+  }, 
+  {
+    "city": "Moultrie", 
+    "name": "E Bypass and Doc Darbyshire", 
+    "country": "US", 
+    "longitude": -83.76375579833984, 
+    "latitude": 31.189762115478516, 
+    "store_id": 1016082
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Mokdong Jungang", 
+    "country": "KR", 
+    "longitude": 126.86851501464844, 
+    "latitude": 37.52600860595703, 
+    "store_id": 1016196
+  }, 
+  {
+    "city": "Gyeonggido", 
+    "name": "Jungdong E-mart", 
+    "country": "KR", 
+    "longitude": 126.76392364501953, 
+    "latitude": 37.504878997802734, 
+    "store_id": 1016381
+  }, 
+  {
+    "city": "Bucheon", 
+    "name": "Bucheon Newcore", 
+    "country": "KR", 
+    "longitude": 126.75670623779297, 
+    "latitude": 37.50439453125, 
+    "store_id": 1016382
+  }, 
+  {
+    "city": "Winchster", 
+    "name": "Winchester High Street", 
+    "country": "GB", 
+    "longitude": -1.3143010139465332, 
+    "latitude": 51.062339782714844, 
+    "store_id": 1015183
+  }, 
+  {
+    "city": "Whiteley", 
+    "name": "Whitely Village Unit E3", 
+    "country": "GB", 
+    "longitude": -1.2454689741134644, 
+    "latitude": 50.88540267944336, 
+    "store_id": 1015184
+  }, 
+  {
+    "city": "Chichester", 
+    "name": "Chichester - North Street-", 
+    "country": "GB", 
+    "longitude": -0.7786579728126526, 
+    "latitude": 50.837188720703125, 
+    "store_id": 1015185
+  }, 
+  {
+    "city": "Portsmouth", 
+    "name": "Portsmouth The Cascades Unit 10", 
+    "country": "GB", 
+    "longitude": -1.0900559425354004, 
+    "latitude": 50.80106735229492, 
+    "store_id": 1015187
+  }, 
+  {
+    "city": "Salisbury", 
+    "name": "Salisbury - Silver Street 39", 
+    "country": "GB", 
+    "longitude": -1.796658992767334, 
+    "latitude": 51.068424224853516, 
+    "store_id": 1015188
+  }, 
+  {
+    "city": "Southampton", 
+    "name": "Southampton - Above Bar Street", 
+    "country": "GB", 
+    "longitude": -1.4046510457992554, 
+    "latitude": 50.905601501464844, 
+    "store_id": 1015203
+  }, 
+  {
+    "city": "Estado de M\u00e9xico", 
+    "name": "Power Center Las Americas", 
+    "country": "MX", 
+    "longitude": -99.02159118652344, 
+    "latitude": 19.58082389831543, 
+    "store_id": 1015551
+  }, 
+  {
+    "city": "Taguig City", 
+    "name": "BGC Corporate Center", 
+    "country": "PH", 
+    "longitude": 121.05493927001953, 
+    "latitude": 14.514046669006348, 
+    "store_id": 1015571
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "Menteng Huis", 
+    "country": "ID", 
+    "longitude": 106.83786010742188, 
+    "latitude": -6.190100193023682, 
+    "store_id": 1015782
+  }, 
+  {
+    "city": "Salamanca", 
+    "name": "Salamanca Power Town", 
+    "country": "MX", 
+    "longitude": -101.22395324707031, 
+    "latitude": 20.581279754638672, 
+    "store_id": 1015790
+  }, 
+  {
+    "city": "Bacolod City", 
+    "name": "SM City Bacolod", 
+    "country": "PH", 
+    "longitude": 123.84061431884766, 
+    "latitude": 8.148229598999023, 
+    "store_id": 1015797
+  }, 
+  {
+    "city": "Cordoba", 
+    "name": "Cordoba Centro", 
+    "country": "MX", 
+    "longitude": -96.93260192871094, 
+    "latitude": 18.891559600830078, 
+    "store_id": 1015922
+  }, 
+  {
+    "city": "Kennesaw", 
+    "name": "Highway 41 and Barrett Parkway", 
+    "country": "US", 
+    "longitude": -84.58943176269531, 
+    "latitude": 33.99872970581055, 
+    "store_id": 1016016
+  }, 
+  {
+    "city": "Estado de Mexico", 
+    "name": "Torre Diana", 
+    "country": "MX", 
+    "longitude": -99.17236328125, 
+    "latitude": 19.42677116394043, 
+    "store_id": 1016316
+  }, 
+  {
+    "city": "Tlalnepantla", 
+    "name": "Mundo E", 
+    "country": "MX", 
+    "longitude": -99.22904205322266, 
+    "latitude": 19.521377563476562, 
+    "store_id": 1016388
+  }, 
+  {
+    "city": "Seattle", 
+    "name": "Westlake and Mercer", 
+    "country": "US", 
+    "longitude": -122.33857727050781, 
+    "latitude": 47.624488830566406, 
+    "store_id": 1009360
+  }, 
+  {
+    "city": "Willemstad", 
+    "name": "Curacao Beach Resort", 
+    "country": "CW", 
+    "longitude": -68.90142822265625, 
+    "latitude": 12.090800285339355, 
+    "store_id": 1016397
+  }, 
+  {
+    "city": "Phnom Penh", 
+    "name": "BKK Flagship", 
+    "country": "KH", 
+    "longitude": 104.92501068115234, 
+    "latitude": 11.553979873657227, 
+    "store_id": 1015576
+  }, 
+  {
+    "city": "Vista", 
+    "name": "Civic Center & Phillips", 
+    "country": "US", 
+    "longitude": -117.23828125, 
+    "latitude": 33.18992233276367, 
+    "store_id": 1016035
+  }, 
+  {
+    "city": "Lakeland", 
+    "name": "Lakeland 64 and Fletcher", 
+    "country": "US", 
+    "longitude": -89.7623291015625, 
+    "latitude": 35.20510482788086, 
+    "store_id": 1016039
+  }, 
+  {
+    "city": "Bloomfield Township", 
+    "name": "Telegraph & Maple", 
+    "country": "US", 
+    "longitude": -83.28590393066406, 
+    "latitude": 42.546234130859375, 
+    "store_id": 1013466
+  }, 
+  {
+    "city": "Macau", 
+    "name": "Sun Star City", 
+    "country": "CN", 
+    "longitude": 113.54228210449219, 
+    "latitude": 22.19463348388672, 
+    "store_id": 1014583
+  }, 
+  {
+    "city": "Higashiosaka", 
+    "name": "Higashiosaka-houji", 
+    "country": "JP", 
+    "longitude": 135.592041015625, 
+    "latitude": 34.65641403198242, 
+    "store_id": 1015796
+  }, 
+  {
+    "city": "Los Angeles", 
+    "name": "2nd & San Pedro", 
+    "country": "US", 
+    "longitude": -118.24203491210938, 
+    "latitude": 34.0493278503418, 
+    "store_id": 1015889
+  }, 
+  {
+    "city": "North Lethbridge", 
+    "name": "SAVE ON FOODS NORTH LETHBRIDGE", 
+    "country": "CA", 
+    "longitude": -112.82777404785156, 
+    "latitude": 49.70161819458008, 
+    "store_id": 1015856
+  }, 
+  {
+    "city": "INDIANAPOLIS", 
+    "name": "KROGER INDIANAPOLIS #500", 
+    "country": "US", 
+    "longitude": -86.26103973388672, 
+    "latitude": 39.79933547973633, 
+    "store_id": 1015887
+  }, 
+  {
+    "city": "Wilmington", 
+    "name": "MARKET ST.", 
+    "country": "US", 
+    "longitude": -75.55014038085938, 
+    "latitude": 39.74250793457031, 
+    "store_id": 1015974
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Mia Newtown", 
+    "country": "KR", 
+    "longitude": 127.02041625976562, 
+    "latitude": 37.61653518676758, 
+    "store_id": 1015998
+  }, 
+  {
+    "city": "Arequipa", 
+    "name": "Real Plaza Arequipa", 
+    "country": "PE", 
+    "longitude": -71.54882049560547, 
+    "latitude": -16.38956069946289, 
+    "store_id": 1016002
+  }, 
+  {
+    "city": "Mansourieh", 
+    "name": "Mansourieh", 
+    "country": "LB", 
+    "longitude": 35.558860778808594, 
+    "latitude": 33.859336853027344, 
+    "store_id": 1016023
+  }, 
+  {
+    "city": "CAREFREE", 
+    "name": "BASHAS 66 CAREFREE", 
+    "country": "US", 
+    "longitude": -111.92192840576172, 
+    "latitude": 33.82473373413086, 
+    "store_id": 1016078
+  }, 
+  {
+    "city": "Hiratsuka", 
+    "name": "LaLaport SHONAN HIRATSUKA", 
+    "country": "JP", 
+    "longitude": 139.3546142578125, 
+    "latitude": 35.33416748046875, 
+    "store_id": 1016104
+  }, 
+  {
+    "city": "Tosu", 
+    "name": "Tosu Kuranouemachi", 
+    "country": "JP", 
+    "longitude": 130.49835205078125, 
+    "latitude": 33.375953674316406, 
+    "store_id": 1016118
+  }, 
+  {
+    "city": "Omaha", 
+    "name": "Hy Vee - Omaha #1471", 
+    "country": "US", 
+    "longitude": -96.11851501464844, 
+    "latitude": 41.2659912109375, 
+    "store_id": 1016185
+  }, 
+  {
+    "city": "Mougins", 
+    "name": "Mougins - Shell Aire de Breguiere", 
+    "country": "FR", 
+    "longitude": 7.004636764526367, 
+    "latitude": 43.59305953979492, 
+    "store_id": 1016219
+  }, 
+  {
+    "city": "BOWIE", 
+    "name": "HARRIS TEETER BOWIE 324", 
+    "country": "US", 
+    "longitude": -76.73513793945312, 
+    "latitude": 38.979312896728516, 
+    "store_id": 1016225
+  }, 
+  {
+    "city": "Musashimurayama", 
+    "name": "Musashimurayama Shinome-kaido", 
+    "country": "JP", 
+    "longitude": 139.3874969482422, 
+    "latitude": 35.75104904174805, 
+    "store_id": 1016227
+  }, 
+  {
+    "city": "Cartersville", 
+    "name": "KROGER CARTERSVILLE #629", 
+    "country": "US", 
+    "longitude": -84.77782440185547, 
+    "latitude": 34.173240661621094, 
+    "store_id": 1016230
+  }, 
+  {
+    "city": "Salem", 
+    "name": "River Rd & Churchdale - Keizer", 
+    "country": "US", 
+    "longitude": -123.02698516845703, 
+    "latitude": 44.99562454223633, 
+    "store_id": 1016236
+  }, 
+  {
+    "city": "Newark", 
+    "name": "NewPark", 
+    "country": "US", 
+    "longitude": -122.0015640258789, 
+    "latitude": 37.526485443115234, 
+    "store_id": 1016242
+  }, 
+  {
+    "city": "STATE COLLEGE", 
+    "name": "TARGET PENN STATE T-3234", 
+    "country": "US", 
+    "longitude": -77.84249877929688, 
+    "latitude": 40.78990173339844, 
+    "store_id": 1016111
+  }, 
+  {
+    "city": "Cupertino", 
+    "name": "TARGET EXPRESS CUPERTINO", 
+    "country": "US", 
+    "longitude": -122.00947570800781, 
+    "latitude": 37.32367706298828, 
+    "store_id": 1016112
+  }, 
+  {
+    "city": "REGINA", 
+    "name": "REGINA CENTER CROSSING", 
+    "country": "CA", 
+    "longitude": -104.61798858642578, 
+    "latitude": 50.453269958496094, 
+    "store_id": 1016120
+  }, 
+  {
+    "city": "El Segundo", 
+    "name": "Ralphs El Segundo #645", 
+    "country": "US", 
+    "longitude": -118.39555358886719, 
+    "latitude": 33.92208480834961, 
+    "store_id": 1016123
+  }, 
+  {
+    "city": "Kyoto", 
+    "name": "AEON MALL KYOTO", 
+    "country": "JP", 
+    "longitude": 135.75579833984375, 
+    "latitude": 34.9829216003418, 
+    "store_id": 1016130
+  }, 
+  {
+    "city": "Waterloo", 
+    "name": "Waterloo Applied Sciences", 
+    "country": "CA", 
+    "longitude": -80.53913879394531, 
+    "latitude": 43.4688835144043, 
+    "store_id": 1016190
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "Yesilkoy Cadde", 
+    "country": "TR", 
+    "longitude": 28.82181739807129, 
+    "latitude": 40.958534240722656, 
+    "store_id": 1016231
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "Carrefour Zekeriyakoy", 
+    "country": "TR", 
+    "longitude": 29.031238555908203, 
+    "latitude": 41.21537399291992, 
+    "store_id": 1016232
+  }, 
+  {
+    "city": "\u6b66\u6c49\u5e02", 
+    "name": "\u6b66\u6c49\u4fdd\u5229\u65f6\u4ee3", 
+    "country": "CN", 
+    "longitude": 114.41097259521484, 
+    "latitude": 30.493080139160156, 
+    "store_id": 1016306
+  }, 
+  {
+    "city": "Ota", 
+    "name": "Ota Nishiyajimacho", 
+    "country": "JP", 
+    "longitude": 139.3758087158203, 
+    "latitude": 36.27336502075195, 
+    "store_id": 1016386
+  }, 
+  {
+    "city": "Marysville", 
+    "name": "Kroger Marysville #549", 
+    "country": "US", 
+    "longitude": -83.3698501586914, 
+    "latitude": 40.24418640136719, 
+    "store_id": 1016274
+  }, 
+  {
+    "city": "Taipei City", 
+    "name": "Lequn Dazhi", 
+    "country": "TW", 
+    "longitude": 121.5603256225586, 
+    "latitude": 25.080230712890625, 
+    "store_id": 1015854
+  }, 
+  {
+    "city": "A Coruna", 
+    "name": "ECI MARINEDA", 
+    "country": "ES", 
+    "longitude": -8.429865837097168, 
+    "latitude": 43.34537124633789, 
+    "store_id": 1016348
+  }, 
+  {
+    "city": "Saltillo", 
+    "name": "Galerias Saltillo", 
+    "country": "MX", 
+    "longitude": -100.9805679321289, 
+    "latitude": 25.457788467407227, 
+    "store_id": 1016224
+  }, 
+  {
+    "city": "Dubai", 
+    "name": "Starbucks - Boulevard Plaza", 
+    "country": "AE", 
+    "longitude": 55.16250228881836, 
+    "latitude": 25.114925384521484, 
+    "store_id": 1014569
+  }, 
+  {
+    "city": "Masela", 
+    "name": "Trolley - Masael", 
+    "country": "KW", 
+    "longitude": 48.086360931396484, 
+    "latitude": 29.243635177612305, 
+    "store_id": 1014901
+  }, 
+  {
+    "city": "Leeds", 
+    "name": "Leeds - West One Wellington Street", 
+    "country": "GB", 
+    "longitude": -1.5565520524978638, 
+    "latitude": 53.79718017578125, 
+    "store_id": 1015219
+  }, 
+  {
+    "city": "Ajman", 
+    "name": "Dana Mall", 
+    "country": "AE", 
+    "longitude": 55.46670150756836, 
+    "latitude": 25.38998031616211, 
+    "store_id": 1015667
+  }, 
+  {
+    "city": "Salmiya", 
+    "name": "The Cube Mall", 
+    "country": "KW", 
+    "longitude": 48.043800354003906, 
+    "latitude": 29.203792572021484, 
+    "store_id": 1015947
+  }, 
+  {
+    "city": "Paisley", 
+    "name": "Glasgow SSPEMEA - GLA Air Landside-", 
+    "country": "GB", 
+    "longitude": -4.428410053253174, 
+    "latitude": 55.863548278808594, 
+    "store_id": 1013949
+  }, 
+  {
+    "city": "Washington DC", 
+    "name": "1401 New York Ave II", 
+    "country": "US", 
+    "longitude": -77.0322265625, 
+    "latitude": 38.900028228759766, 
+    "store_id": 1016004
+  }, 
+  {
+    "city": "Braintree", 
+    "name": "Braintree Cineworld Freeport", 
+    "country": "GB", 
+    "longitude": 0.5697450041770935, 
+    "latitude": 51.86885452270508, 
+    "store_id": 1008037
+  }, 
+  {
+    "city": "Fort Mohave", 
+    "name": "Smiths Fort Mohave #473", 
+    "country": "US", 
+    "longitude": -114.5980224609375, 
+    "latitude": 35.01874923706055, 
+    "store_id": 1015112
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Hwagok DT", 
+    "country": "KR", 
+    "longitude": 126.86317443847656, 
+    "latitude": 37.535072326660156, 
+    "store_id": 1015366
+  }, 
+  {
+    "city": "Goyang", 
+    "name": "Goyang Samsong", 
+    "country": "KR", 
+    "longitude": 126.8911361694336, 
+    "latitude": 37.66381072998047, 
+    "store_id": 1015585
+  }, 
+  {
+    "city": "Tampa", 
+    "name": "TPA - AIRSIDE A RESERVE", 
+    "country": "US", 
+    "longitude": -82.53561401367188, 
+    "latitude": 27.974321365356445, 
+    "store_id": 1015777
+  }, 
+  {
+    "city": "Ankara", 
+    "name": "Iran Caddesi", 
+    "country": "TR", 
+    "longitude": 32.862815856933594, 
+    "latitude": 39.89846420288086, 
+    "store_id": 1015948
+  }, 
+  {
+    "city": "Rancho Mirage", 
+    "name": "Albertsons - Rancho Mirage 6586", 
+    "country": "US", 
+    "longitude": -116.39299011230469, 
+    "latitude": 33.756168365478516, 
+    "store_id": 1016133
+  }, 
+  {
+    "city": "Poznan", 
+    "name": "Posnania", 
+    "country": "PL", 
+    "longitude": 16.95401954650879, 
+    "latitude": 52.396087646484375, 
+    "store_id": 1016122
+  }, 
+  {
+    "city": "TEMPE", 
+    "name": "JP MORGAN CHASE TEMPE", 
+    "country": "US", 
+    "longitude": -111.94087982177734, 
+    "latitude": 33.42195129394531, 
+    "store_id": 1016160
+  }, 
+  {
+    "city": "Hong Kong", 
+    "name": "Citygate II", 
+    "country": "CN", 
+    "longitude": 113.94099426269531, 
+    "latitude": 22.289608001708984, 
+    "store_id": 1016206
+  }, 
+  {
+    "city": "\u5408\u80a5\u5e02", 
+    "name": "\u5408\u80a5\u5305\u6cb3\u4e07\u8fbe2\u5e97", 
+    "country": "CN", 
+    "longitude": 117.30282592773438, 
+    "latitude": 31.857839584350586, 
+    "store_id": 1016273
+  }, 
+  {
+    "city": "New Bern", 
+    "name": "Harris Teeter New Bern # 139", 
+    "country": "US", 
+    "longitude": -77.00420379638672, 
+    "latitude": 35.012603759765625, 
+    "store_id": 1016282
+  }, 
+  {
+    "city": "Fukuoka", 
+    "name": "WEST COURT MEINOHAMA", 
+    "country": "JP", 
+    "longitude": 130.3222198486328, 
+    "latitude": 33.5816650390625, 
+    "store_id": 1016289
+  }, 
+  {
+    "city": "\u94f6\u5ddd\u5e02", 
+    "name": "\u94f6\u5ddd\u65b0\u534e\u767e\u8d27\u5e97", 
+    "country": "CN", 
+    "longitude": 106.28142547607422, 
+    "latitude": 38.46146011352539, 
+    "store_id": 1016292
+  }, 
+  {
+    "city": "ELKHART", 
+    "name": "MARTINS ELKHART 6", 
+    "country": "US", 
+    "longitude": -85.9293212890625, 
+    "latitude": 41.64312744140625, 
+    "store_id": 1016249
+  }, 
+  {
+    "city": "Abu Halifa", 
+    "name": "The Venue", 
+    "country": "KW", 
+    "longitude": 48.12392044067383, 
+    "latitude": 29.137914657592773, 
+    "store_id": 1016295
+  }, 
+  {
+    "city": "Gyeonggi", 
+    "name": "Byeollae jungangro", 
+    "country": "KR", 
+    "longitude": 127.11250305175781, 
+    "latitude": 37.65048599243164, 
+    "store_id": 1016326
+  }, 
+  {
+    "city": "RIYADH", 
+    "name": "PNU Library", 
+    "country": "SA", 
+    "longitude": 46.66219711303711, 
+    "latitude": 24.667821884155273, 
+    "store_id": 1012644
+  }, 
+  {
+    "city": "RIYADH", 
+    "name": "PNU Management", 
+    "country": "SA", 
+    "longitude": 46.662296295166016, 
+    "latitude": 24.66779136657715, 
+    "store_id": 1012645
+  }, 
+  {
+    "city": "London", 
+    "name": "Wood Lane Underground Station-", 
+    "country": "GB", 
+    "longitude": -0.22407600283622742, 
+    "latitude": 51.509559631347656, 
+    "store_id": 1015478
+  }, 
+  {
+    "city": "Eskisehir", 
+    "name": "Visnelik", 
+    "country": "TR", 
+    "longitude": 30.505998611450195, 
+    "latitude": 39.76458740234375, 
+    "store_id": 1015846
+  }, 
+  {
+    "city": "Johnson City", 
+    "name": "State of Franklin and University", 
+    "country": "US", 
+    "longitude": -82.36572265625, 
+    "latitude": 36.30805587768555, 
+    "store_id": 1009829
+  }, 
+  {
+    "city": "Poznan", 
+    "name": "Posnania 2", 
+    "country": "PL", 
+    "longitude": 16.953954696655273, 
+    "latitude": 52.39646911621094, 
+    "store_id": 1016121
+  }, 
+  {
+    "city": "Bucharest", 
+    "name": "Plark Lake Plaza Mall", 
+    "country": "RO", 
+    "longitude": 26.150196075439453, 
+    "latitude": 44.42049026489258, 
+    "store_id": 1016310
+  }, 
+  {
+    "city": "Harrow", 
+    "name": "Harrow - St Georges Centre", 
+    "country": "GB", 
+    "longitude": -0.33883899450302124, 
+    "latitude": 51.581478118896484, 
+    "store_id": 1015168
+  }, 
+  {
+    "city": "Edgeware", 
+    "name": "Edgeware - Station Road", 
+    "country": "GB", 
+    "longitude": -0.27681800723075867, 
+    "latitude": 51.613258361816406, 
+    "store_id": 1015169
+  }, 
+  {
+    "city": "Watford", 
+    "name": "Watford Harlequin Centre Lower Mall", 
+    "country": "GB", 
+    "longitude": -0.39321601390838623, 
+    "latitude": 51.65507125854492, 
+    "store_id": 1015171
+  }, 
+  {
+    "city": "Pinner", 
+    "name": "Pinner High Street", 
+    "country": "GB", 
+    "longitude": -0.39482200145721436, 
+    "latitude": 51.58113479614258, 
+    "store_id": 1015172
+  }, 
+  {
+    "city": "London", 
+    "name": "Borehamwood - Shopping Park", 
+    "country": "GB", 
+    "longitude": -0.2770389914512634, 
+    "latitude": 51.655845642089844, 
+    "store_id": 1015173
+  }, 
+  {
+    "city": "St Albans", 
+    "name": "St Albans - High Street-", 
+    "country": "GB", 
+    "longitude": -0.3403469920158386, 
+    "latitude": 51.751075744628906, 
+    "store_id": 1015208
+  }, 
+  {
+    "city": "Welwyn Garden City", 
+    "name": "Welwyn Garden City Howard Centre", 
+    "country": "GB", 
+    "longitude": -0.2042199969291687, 
+    "latitude": 51.802085876464844, 
+    "store_id": 1015210
+  }, 
+  {
+    "city": "Leon", 
+    "name": "Puerta Bajio", 
+    "country": "MX", 
+    "longitude": -101.73316955566406, 
+    "latitude": 21.171241760253906, 
+    "store_id": 1015941
+  }, 
+  {
+    "city": "Guadalajara", 
+    "name": "Technology Park", 
+    "country": "MX", 
+    "longitude": -103.4916000366211, 
+    "latitude": 20.71940040588379, 
+    "store_id": 1016214
+  }, 
+  {
+    "city": "Lakeland", 
+    "name": "US 98 & Wedgewood", 
+    "country": "US", 
+    "longitude": -81.97301483154297, 
+    "latitude": 28.09556770324707, 
+    "store_id": 1016253
+  }, 
+  {
+    "city": "York", 
+    "name": "Springwood Road", 
+    "country": "US", 
+    "longitude": -76.69217681884766, 
+    "latitude": 39.938419342041016, 
+    "store_id": 1016268
+  }, 
+  {
+    "city": "\u90d1\u5dde\u5e02", 
+    "name": "\u90d1\u5dde\u4e39\u5c3c\u65af\u5927\u536b\u57ce", 
+    "country": "CN", 
+    "longitude": 113.66584014892578, 
+    "latitude": 34.757022857666016, 
+    "store_id": 1008356
+  }, 
+  {
+    "city": "Niteroi", 
+    "name": "Plaza Niteroi Relo", 
+    "country": "BR", 
+    "longitude": -43.12376403808594, 
+    "latitude": -22.896745681762695, 
+    "store_id": 1011534
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u677e\u6c5f\u4e09\u6e58\u8d22\u5bcc\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 121.23006439208984, 
+    "latitude": 31.053115844726562, 
+    "store_id": 1015064
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "National Assemble Station", 
+    "country": "KR", 
+    "longitude": 126.91696166992188, 
+    "latitude": 37.527809143066406, 
+    "store_id": 1015313
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "Garanti Zincirlikuyu", 
+    "country": "TR", 
+    "longitude": 29.01833724975586, 
+    "latitude": 41.07485580444336, 
+    "store_id": 1015653
+  }, 
+  {
+    "city": "\u76d8\u9526\u5e02", 
+    "name": "\u76d8\u9526\u4e07\u8fbe\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 122.07797241210938, 
+    "latitude": 41.10204315185547, 
+    "store_id": 1015762
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "mapo yeomri", 
+    "country": "KR", 
+    "longitude": 126.94732666015625, 
+    "latitude": 37.543949127197266, 
+    "store_id": 1015839
+  }, 
+  {
+    "city": "Bogor", 
+    "name": "Met Mall Cileungsi", 
+    "country": "ID", 
+    "longitude": 106.59146118164062, 
+    "latitude": -6.232040882110596, 
+    "store_id": 1015853
+  }, 
+  {
+    "city": "Burbank", 
+    "name": "Ralphs Burbank #648", 
+    "country": "US", 
+    "longitude": -118.3393783569336, 
+    "latitude": 34.18412399291992, 
+    "store_id": 1016021
+  }, 
+  {
+    "city": "\u60e0\u5dde\u5e02", 
+    "name": "\u60e0\u5dde\u9686\u751f\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 114.42214965820312, 
+    "latitude": 23.084318161010742, 
+    "store_id": 1016152
+  }, 
+  {
+    "city": "Ludlow", 
+    "name": "MA-TURNPIKE LUDLOW WEST", 
+    "country": "US", 
+    "longitude": -72.45477294921875, 
+    "latitude": 42.17100524902344, 
+    "store_id": 1016079
+  }, 
+  {
+    "city": "FREEPORT", 
+    "name": "TARGET FREEPORT T-3236", 
+    "country": "US", 
+    "longitude": -73.59219360351562, 
+    "latitude": 40.6561164855957, 
+    "store_id": 1016108
+  }, 
+  {
+    "city": "Los Angeles", 
+    "name": "Ralph's - Los Angeles #185", 
+    "country": "US", 
+    "longitude": -118.37158203125, 
+    "latitude": 33.978939056396484, 
+    "store_id": 1016239
+  }, 
+  {
+    "city": "Windsor Heights", 
+    "name": "Hy Vee - Windsor Heights #1895", 
+    "country": "US", 
+    "longitude": -93.715576171875, 
+    "latitude": 41.60087966918945, 
+    "store_id": 1016240
+  }, 
+  {
+    "city": "Londonderry", 
+    "name": "Londonderry, Nashua Rd.", 
+    "country": "US", 
+    "longitude": -71.35254669189453, 
+    "latitude": 42.862098693847656, 
+    "store_id": 1016269
+  }, 
+  {
+    "city": "Idaho Falls", 
+    "name": "Albertsons - Idaho Falls #138", 
+    "country": "US", 
+    "longitude": -112.021728515625, 
+    "latitude": 43.48111343383789, 
+    "store_id": 1016313
+  }, 
+  {
+    "city": "Airdrie", 
+    "name": "SAVE ON FOODS EAST AIRDRIE", 
+    "country": "CA", 
+    "longitude": -113.9936752319336, 
+    "latitude": 51.27035140991211, 
+    "store_id": 1016314
+  }, 
+  {
+    "city": "Renton", 
+    "name": "FRED MEYER - RENTON LS #31", 
+    "country": "US", 
+    "longitude": -122.1988525390625, 
+    "latitude": 47.44309616088867, 
+    "store_id": 1016229
+  }, 
+  {
+    "city": "Al Riqqa", 
+    "name": "Al Riqqa Park", 
+    "country": "KW", 
+    "longitude": 48.06007766723633, 
+    "latitude": 29.08504867553711, 
+    "store_id": 1016257
+  }, 
+  {
+    "city": "Rockwall", 
+    "name": "KROGER - ROCKWALL #574", 
+    "country": "US", 
+    "longitude": -96.46199798583984, 
+    "latitude": 32.94980239868164, 
+    "store_id": 1016262
+  }, 
+  {
+    "city": "Columbus", 
+    "name": "Kroger Columbus #593", 
+    "country": "US", 
+    "longitude": -82.97557830810547, 
+    "latitude": 40.06079864501953, 
+    "store_id": 1016279
+  }, 
+  {
+    "city": "Moscow", 
+    "name": "Avenue", 
+    "country": "RU", 
+    "longitude": 37.481075286865234, 
+    "latitude": 55.66287612915039, 
+    "store_id": 1016298
+  }, 
+  {
+    "city": "Greensboro", 
+    "name": "GSO - NORTH CONCOURSE", 
+    "country": "US", 
+    "longitude": -79.93388366699219, 
+    "latitude": 36.1171875, 
+    "store_id": 1016307
+  }, 
+  {
+    "city": "Vacaville", 
+    "name": "Nut Tree and Elmira", 
+    "country": "US", 
+    "longitude": -121.9527816772461, 
+    "latitude": 38.35205078125, 
+    "store_id": 1016324
+  }, 
+  {
+    "city": "ASHEVILLE", 
+    "name": "INGLES ASHEVILLE 24", 
+    "country": "US", 
+    "longitude": -82.60575103759766, 
+    "latitude": 35.530460357666016, 
+    "store_id": 1016328
+  }, 
+  {
+    "city": "Minooka", 
+    "name": "Jewel Osco - Minooka #3730", 
+    "country": "US", 
+    "longitude": -88.27238464355469, 
+    "latitude": 41.420135498046875, 
+    "store_id": 1016396
+  }, 
+  {
+    "city": "\u5b9d\u9e21\u5e02", 
+    "name": "\u5b9d\u9e21\u5929\u4e0b\u6c47\u8d2d\u7269\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 107.23053741455078, 
+    "latitude": 34.34629440307617, 
+    "store_id": 1016411
+  }, 
+  {
+    "city": "Palm", 
+    "name": "CC Fan", 
+    "country": "ES", 
+    "longitude": 2.705897092819214, 
+    "latitude": 39.55265426635742, 
+    "store_id": 1016367
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Hannam dong", 
+    "country": "KR", 
+    "longitude": 127.01089477539062, 
+    "latitude": 37.53483200073242, 
+    "store_id": 1014966
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Yangcheon Hyanggyo", 
+    "country": "KR", 
+    "longitude": 126.84093475341797, 
+    "latitude": 37.567054748535156, 
+    "store_id": 1016176
+  }, 
+  {
+    "city": "MADRID", 
+    "name": "Av. De Europa", 
+    "country": "ES", 
+    "longitude": -3.7941699028015137, 
+    "latitude": 40.43794631958008, 
+    "store_id": 1016299
+  }, 
+  {
+    "city": "Birmingham", 
+    "name": "Birmingham Cineworld Broad St (181)", 
+    "country": "GB", 
+    "longitude": -1.9146840572357178, 
+    "latitude": 52.474403381347656, 
+    "store_id": 1009111
+  }, 
+  {
+    "city": "Brussels", 
+    "name": "Brussels - Gare du Midi (M)", 
+    "country": "BE", 
+    "longitude": 4.333179950714111, 
+    "latitude": 50.8319206237793, 
+    "store_id": 1014080
+  }, 
+  {
+    "city": "London", 
+    "name": "Sainsbury Nine Elms", 
+    "country": "GB", 
+    "longitude": -0.1286430060863495, 
+    "latitude": 51.48015213012695, 
+    "store_id": 1015733
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "T3 Ultimate Domestic Landsite", 
+    "country": "ID", 
+    "longitude": 106.66500091552734, 
+    "latitude": -6.119193077087402, 
+    "store_id": 1015344
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "PIK Avenue", 
+    "country": "ID", 
+    "longitude": 106.44263458251953, 
+    "latitude": -6.063300132751465, 
+    "store_id": 1016188
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "Neo SOHO Central Park", 
+    "country": "ID", 
+    "longitude": 106.4749755859375, 
+    "latitude": -6.114673137664795, 
+    "store_id": 1016264
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "Lulu Hypermart", 
+    "country": "ID", 
+    "longitude": 106.94908905029297, 
+    "latitude": -6.185525894165039, 
+    "store_id": 1016267
+  }, 
+  {
+    "city": "Tsawwassen", 
+    "name": "Bayside Village", 
+    "country": "CA", 
+    "longitude": -123.06938934326172, 
+    "latitude": 49.023658752441406, 
+    "store_id": 1016360
+  }, 
+  {
+    "city": "A CORUNA", 
+    "name": "ECI RAMON Y CAJAL", 
+    "country": "ES", 
+    "longitude": -8.405029296875, 
+    "latitude": 43.354408264160156, 
+    "store_id": 1016349
+  }, 
+  {
+    "city": "Singapore", 
+    "name": "Bugis Junction Event Store", 
+    "country": "SG", 
+    "longitude": 103.85588836669922, 
+    "latitude": 1.3003079891204834, 
+    "store_id": 1016768
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u6d66\u4e1c\u673a\u573a\u4ea4\u901a\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 121.80620574951172, 
+    "latitude": 31.149879455566406, 
+    "store_id": 1008553
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5e97", 
+    "country": "CN", 
+    "longitude": 121.43257141113281, 
+    "latitude": 31.19987678527832, 
+    "store_id": 1015035
+  }, 
+  {
+    "city": "\u9547\u6c5f\u5e02", 
+    "name": "\u9547\u6c5f\u5317\u56fa\u6e7e\u5e97", 
+    "country": "CN", 
+    "longitude": 119.46509552001953, 
+    "latitude": 32.215267181396484, 
+    "store_id": 1015296
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u73af\u8d38\u5e7f\u573aLG2\u5e97", 
+    "country": "CN", 
+    "longitude": 121.4571304321289, 
+    "latitude": 31.215530395507812, 
+    "store_id": 1015604
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u62db\u5546\u5c40\u4e0a\u6d77\u4e2d\u5fc3\u5e97", 
+    "country": "CN", 
+    "longitude": 121.486328125, 
+    "latitude": 31.182212829589844, 
+    "store_id": 1015634
+  }, 
+  {
+    "city": "\u676d\u5dde\u5e02", 
+    "name": "\u676d\u5dde501\u57ce\u5e02\u5e7f\u573a1F\u5e97", 
+    "country": "CN", 
+    "longitude": 120.2034912109375, 
+    "latitude": 30.258586883544922, 
+    "store_id": 1015700
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u51c9\u57ce\u4e16\u7eaa\u8054\u534e\u5e97", 
+    "country": "CN", 
+    "longitude": 121.47545623779297, 
+    "latitude": 31.29490089416504, 
+    "store_id": 1015708
+  }, 
+  {
+    "city": "\u676d\u5dde\u5e02", 
+    "name": "\u676d\u5dde\u5929\u57ce\u56fd\u9645\u5e97", 
+    "country": "CN", 
+    "longitude": 120.19269561767578, 
+    "latitude": 30.28597640991211, 
+    "store_id": 1015772
+  }, 
+  {
+    "city": "\u53f0\u5dde\u5e02", 
+    "name": "\u53f0\u5dde\u6912\u6c5f\u9526\u6c5f\u767e\u8d27\u5e97", 
+    "country": "CN", 
+    "longitude": 121.43765258789062, 
+    "latitude": 28.674087524414062, 
+    "store_id": 1015959
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u5609\u5b9a\u5b9d\u9f99\u5546\u4e1a\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 121.26087188720703, 
+    "latitude": 31.346830368041992, 
+    "store_id": 1015995
+  }, 
+  {
+    "city": "\u65e0\u9521\u5e02", 
+    "name": "\u65e0\u9521\u6c5f\u9634\u534e\u8054\u5e97", 
+    "country": "CN", 
+    "longitude": 120.2720718383789, 
+    "latitude": 31.905654907226562, 
+    "store_id": 1015990
+  }, 
+  {
+    "city": "Santa Maria", 
+    "name": "Broadway & Grant", 
+    "country": "US", 
+    "longitude": -120.43587493896484, 
+    "latitude": 34.97111129760742, 
+    "store_id": 1016010
+  }, 
+  {
+    "city": "Miri Sarawak", 
+    "name": "Marina Parkcity DT", 
+    "country": "MY", 
+    "longitude": 114.03011322021484, 
+    "latitude": 4.289360046386719, 
+    "store_id": 1016101
+  }, 
+  {
+    "city": "\u53f0\u5dde\u5e02", 
+    "name": "\u53f0\u5dde\u4e2d\u76db\u57ce\u5e02\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 121.37812805175781, 
+    "latitude": 28.57874870300293, 
+    "store_id": 1016128
+  }, 
+  {
+    "city": "\u5929\u6d25\u5e02", 
+    "name": "\u5929\u6d25\u5370\u8c61\u57ce\u5e97", 
+    "country": "CN", 
+    "longitude": 117.21827697753906, 
+    "latitude": 39.02427291870117, 
+    "store_id": 1016135
+  }, 
+  {
+    "city": "ShangHai", 
+    "name": "\u91d1\u5c71\u533b\u9662\u5e97", 
+    "country": "CN", 
+    "longitude": 121.32943725585938, 
+    "latitude": 30.755992889404297, 
+    "store_id": 1016235
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u5949\u8d24\u91d1\u53f6\u5546\u53a6\u5e97", 
+    "country": "CN", 
+    "longitude": 121.459228515625, 
+    "latitude": 30.91393280029297, 
+    "store_id": 1016193
+  }, 
+  {
+    "city": "Providence", 
+    "name": "University Heights", 
+    "country": "US", 
+    "longitude": -71.4091567993164, 
+    "latitude": 41.83647155761719, 
+    "store_id": 1016275
+  }, 
+  {
+    "city": "Norwalk", 
+    "name": "Pioneer & Rosecrans", 
+    "country": "US", 
+    "longitude": -118.08231353759766, 
+    "latitude": 33.90144729614258, 
+    "store_id": 1016335
+  }, 
+  {
+    "city": "Bellingham", 
+    "name": "Old Fairhaven Parkway & 30th", 
+    "country": "US", 
+    "longitude": -122.47784423828125, 
+    "latitude": 48.71474075317383, 
+    "store_id": 1016341
+  }, 
+  {
+    "city": "Sandy", 
+    "name": "106th & State - Sandy", 
+    "country": "US", 
+    "longitude": -111.89415740966797, 
+    "latitude": 40.559242248535156, 
+    "store_id": 1016344
+  }, 
+  {
+    "city": "Colorado Springs", 
+    "name": "C Springs - Dublin and Tutt", 
+    "country": "US", 
+    "longitude": -104.71621704101562, 
+    "latitude": 38.92616271972656, 
+    "store_id": 1016357
+  }, 
+  {
+    "city": "\u5f90\u5dde\u5e02", 
+    "name": "\u5f90\u5dde\u94dc\u5c71\u4e07\u8fbe\u5e97", 
+    "country": "CN", 
+    "longitude": 117.18689727783203, 
+    "latitude": 34.189842224121094, 
+    "store_id": 1016492
+  }, 
+  {
+    "city": "ShangHai", 
+    "name": "\u671b\u6708\u8def\u5e97", 
+    "country": "CN", 
+    "longitude": 121.46038055419922, 
+    "latitude": 31.11701202392578, 
+    "store_id": 1016646
+  }, 
+  {
+    "city": "\u4e0a\u6d77\u5e02", 
+    "name": "\u6c38\u5fb7\u5f18\u57fa\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 121.45635986328125, 
+    "latitude": 31.041194915771484, 
+    "store_id": 1015819
+  }, 
+  {
+    "city": "\u7ecd\u5174\u5e02", 
+    "name": "\u7ecd\u5174\u67ef\u6865\u4e07\u8fbe\u5357\u95e8\u5e97", 
+    "country": "CN", 
+    "longitude": 120.51060485839844, 
+    "latitude": 30.092641830444336, 
+    "store_id": 1016515
+  }, 
+  {
+    "city": "Shanghai", 
+    "name": "\u65b0\u58f9\u574a\u5e97", 
+    "country": "CN", 
+    "longitude": 121.38797760009766, 
+    "latitude": 31.025867462158203, 
+    "store_id": 1016661
+  }, 
+  {
+    "city": "Hangzhou", 
+    "name": "\u8427\u5c71\u5b9d\u76db\u5bbe\u9986\u5e97\u5e97", 
+    "country": "CN", 
+    "longitude": 120.26726531982422, 
+    "latitude": 30.17636489868164, 
+    "store_id": 1016670
+  }, 
+  {
+    "city": "Lewisville", 
+    "name": "Hwy 121 & Plano Pkwy", 
+    "country": "US", 
+    "longitude": -96.88127136230469, 
+    "latitude": 33.067684173583984, 
+    "store_id": 1009970
+  }, 
+  {
+    "city": "South Boston", 
+    "name": "L Street & East Broadway", 
+    "country": "US", 
+    "longitude": -71.03549194335938, 
+    "latitude": 42.33554458618164, 
+    "store_id": 1014608
+  }, 
+  {
+    "city": "Hong Kong", 
+    "name": "Mui Wo", 
+    "country": "CN", 
+    "longitude": 113.9980697631836, 
+    "latitude": 22.265846252441406, 
+    "store_id": 1015020
+  }, 
+  {
+    "city": "Swindon", 
+    "name": "Swindon - Great Western Outlet", 
+    "country": "GB", 
+    "longitude": -1.7981109619140625, 
+    "latitude": 51.562618255615234, 
+    "store_id": 1015192
+  }, 
+  {
+    "city": "Swindon", 
+    "name": "Swindon - Brunel Centre", 
+    "country": "GB", 
+    "longitude": -1.7857609987258911, 
+    "latitude": 51.56038284301758, 
+    "store_id": 1015209
+  }, 
+  {
+    "city": "Lincoln", 
+    "name": "Lincoln - High Street-", 
+    "country": "GB", 
+    "longitude": -0.5406309962272644, 
+    "latitude": 53.22798156738281, 
+    "store_id": 1015212
+  }, 
+  {
+    "city": "1~2F", 
+    "name": "Chuncheon Hupyeong DT", 
+    "country": "KR", 
+    "longitude": 127.75067901611328, 
+    "latitude": 37.87939453125, 
+    "store_id": 1015419
+  }, 
+  {
+    "city": "Ipswich", 
+    "name": "Ipswich Station SSPEMEA - Burrell R", 
+    "country": "GB", 
+    "longitude": 1.1442019939422607, 
+    "latitude": 52.050724029541016, 
+    "store_id": 1015473
+  }, 
+  {
+    "city": "St. Joseph", 
+    "name": "PRICE CHOPPER ST. JOSEPH", 
+    "country": "US", 
+    "longitude": -94.8034896850586, 
+    "latitude": 39.786102294921875, 
+    "store_id": 1015692
+  }, 
+  {
+    "city": "Las Vegas", 
+    "name": "Target Las Vegas Far SW T-1524", 
+    "country": "US", 
+    "longitude": -115.30696105957031, 
+    "latitude": 36.11363220214844, 
+    "store_id": 1015786
+  }, 
+  {
+    "city": "seoul", 
+    "name": "chungang univ.", 
+    "country": "KR", 
+    "longitude": 126.95824432373047, 
+    "latitude": 37.5069465637207, 
+    "store_id": 1015795
+  }, 
+  {
+    "city": "Khaldiya", 
+    "name": "Khaldiya University - Women", 
+    "country": "KW", 
+    "longitude": 47.58201599121094, 
+    "latitude": 29.190858840942383, 
+    "store_id": 1015939
+  }, 
+  {
+    "city": "LUDLOW", 
+    "name": "MA - TURNPIKE LUDLOW EAST", 
+    "country": "US", 
+    "longitude": -72.4541244506836, 
+    "latitude": 42.16910934448242, 
+    "store_id": 1016083
+  }, 
+  {
+    "city": "Oakland", 
+    "name": "2nd & Broadway", 
+    "country": "US", 
+    "longitude": -122.2761459350586, 
+    "latitude": 37.796058654785156, 
+    "store_id": 1016218
+  }, 
+  {
+    "city": "Kent", 
+    "name": "FRED MEYER - KENT LS #172", 
+    "country": "US", 
+    "longitude": -122.20545959472656, 
+    "latitude": 47.38605499267578, 
+    "store_id": 1016213
+  }, 
+  {
+    "city": "Puyallup", 
+    "name": "152nd St & Meridian Ave", 
+    "country": "US", 
+    "longitude": -122.29243469238281, 
+    "latitude": 47.11872863769531, 
+    "store_id": 1016252
+  }, 
+  {
+    "city": "Clarksburg", 
+    "name": "Clarksburg Premium Outlets", 
+    "country": "US", 
+    "longitude": -77.287353515625, 
+    "latitude": 39.221702575683594, 
+    "store_id": 1016340
+  }, 
+  {
+    "city": "Redwood City", 
+    "name": "Broadway & Hamilton", 
+    "country": "US", 
+    "longitude": -122.22992706298828, 
+    "latitude": 37.48630142211914, 
+    "store_id": 1016343
+  }, 
+  {
+    "city": "Hsinchu City", 
+    "name": "Linsen Hsinchu", 
+    "country": "TW", 
+    "longitude": 120.97044372558594, 
+    "latitude": 24.802780151367188, 
+    "store_id": 1016293
+  }, 
+  {
+    "city": "Egaila", 
+    "name": "Sama Mall Egaila", 
+    "country": "KW", 
+    "longitude": 48.055145263671875, 
+    "latitude": 29.111581802368164, 
+    "store_id": 1016296
+  }, 
+  {
+    "city": "Chandler", 
+    "name": "Fry's Chandler #681", 
+    "country": "US", 
+    "longitude": -111.7982177734375, 
+    "latitude": 33.22340393066406, 
+    "store_id": 1016309
+  }, 
+  {
+    "city": "Obihiro", 
+    "name": "Obihiro Shirakaba-dori", 
+    "country": "JP", 
+    "longitude": 143.1433868408203, 
+    "latitude": 42.917381286621094, 
+    "store_id": 1016443
+  }, 
+  {
+    "city": "Beverley", 
+    "name": "Beverley-Flemingate Centre", 
+    "country": "GB", 
+    "longitude": -0.4213860034942627, 
+    "latitude": 53.83962631225586, 
+    "store_id": 1016482
+  }, 
+  {
+    "city": "Dubai", 
+    "name": "Riverland", 
+    "country": "AE", 
+    "longitude": 55.189151763916016, 
+    "latitude": 25.113889694213867, 
+    "store_id": 1016437
+  }, 
+  {
+    "city": "Osaka", 
+    "name": "EKI MARCHE OSAKA", 
+    "country": "JP", 
+    "longitude": 135.49501037597656, 
+    "latitude": 34.70116424560547, 
+    "store_id": 1016439
+  }, 
+  {
+    "city": "Bucharest", 
+    "name": "Veranda Mall", 
+    "country": "RO", 
+    "longitude": 26.11783218383789, 
+    "latitude": 44.45015335083008, 
+    "store_id": 1016467
+  }, 
+  {
+    "city": "Ploiesti", 
+    "name": "AFI Ploiesti", 
+    "country": "RO", 
+    "longitude": 26.032453536987305, 
+    "latitude": 44.94709014892578, 
+    "store_id": 1016488
+  }, 
+  {
+    "city": "Makati", 
+    "name": "14 Jupiter St.", 
+    "country": "PH", 
+    "longitude": 121.02444458007812, 
+    "latitude": 14.554729461669922, 
+    "store_id": 1014833
+  }, 
+  {
+    "city": "Tangerang", 
+    "name": "Terminal 3 Ultimate Domestic Airsid", 
+    "country": "ID", 
+    "longitude": 106.66593170166016, 
+    "latitude": -6.117958068847656, 
+    "store_id": 1014962
+  }, 
+  {
+    "city": "Farwaniya", 
+    "name": "Airport Airside II", 
+    "country": "KW", 
+    "longitude": 47.97132110595703, 
+    "latitude": 29.240203857421875, 
+    "store_id": 1014975
+  }, 
+  {
+    "city": "Gurgaon", 
+    "name": "One Horizon Center", 
+    "country": "IN", 
+    "longitude": 77.09378814697266, 
+    "latitude": 28.475669860839844, 
+    "store_id": 1015283
+  }, 
+  {
+    "city": "Cork", 
+    "name": "Blackpool Cork", 
+    "country": "IE", 
+    "longitude": -8.471104621887207, 
+    "latitude": 51.91557693481445, 
+    "store_id": 1015857
+  }, 
+  {
+    "city": "Oakville", 
+    "name": "225 Lakeshore Road East", 
+    "country": "CA", 
+    "longitude": -79.6678695678711, 
+    "latitude": 43.446292877197266, 
+    "store_id": 1015927
+  }, 
+  {
+    "city": "Medan", 
+    "name": "Merdeka Walk Medan", 
+    "country": "ID", 
+    "longitude": 98.40401458740234, 
+    "latitude": 3.3526999950408936, 
+    "store_id": 1016263
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "Food Centrum Sunter", 
+    "country": "ID", 
+    "longitude": 106.85440826416016, 
+    "latitude": -6.140745162963867, 
+    "store_id": 1016551
+  }, 
+  {
+    "city": "Bangkok", 
+    "name": "Fortune Town", 
+    "country": "TH", 
+    "longitude": 100.564697265625, 
+    "latitude": 13.757671356201172, 
+    "store_id": 1016558
+  }, 
+  {
+    "city": "Singapore", 
+    "name": "United Square Temp Store", 
+    "country": "SG", 
+    "longitude": 103.84353637695312, 
+    "latitude": 1.3174920082092285, 
+    "store_id": 1016819
+  }, 
+  {
+    "city": "New Britain", 
+    "name": "Target New Britain T-1289", 
+    "country": "US", 
+    "longitude": -72.76558685302734, 
+    "latitude": 41.710792541503906, 
+    "store_id": 1009592
+  }, 
+  {
+    "city": "Visalia", 
+    "name": "Target Visalia T-1805", 
+    "country": "US", 
+    "longitude": -119.31684875488281, 
+    "latitude": 36.29230499267578, 
+    "store_id": 1010128
+  }, 
+  {
+    "city": "Lima", 
+    "name": "Mega Plaza", 
+    "country": "PE", 
+    "longitude": -77.06192016601562, 
+    "latitude": -11.994407653808594, 
+    "store_id": 1014417
+  }, 
+  {
+    "city": "Kuwait", 
+    "name": "Karizma Villa", 
+    "country": "KW", 
+    "longitude": 47.97673034667969, 
+    "latitude": 29.38316535949707, 
+    "store_id": 1014533
+  }, 
+  {
+    "city": "Doha", 
+    "name": "Muaither Villa", 
+    "country": "QA", 
+    "longitude": 51.494075775146484, 
+    "latitude": 25.352144241333008, 
+    "store_id": 1015256
+  }, 
+  {
+    "city": "Gwangyang", 
+    "name": "Jeonnam Gwangyang DT", 
+    "country": "KR", 
+    "longitude": 127.69784545898438, 
+    "latitude": 34.94339370727539, 
+    "store_id": 1015443
+  }, 
+  {
+    "city": "DAMMAM", 
+    "name": "KFIA - Domestic Airside", 
+    "country": "SA", 
+    "longitude": 50.07762908935547, 
+    "latitude": 26.415279388427734, 
+    "store_id": 1015726
+  }, 
+  {
+    "city": "LOUISVILLE", 
+    "name": "KROGER LOUISVILLE 186", 
+    "country": "US", 
+    "longitude": -85.63057708740234, 
+    "latitude": 38.28380584716797, 
+    "store_id": 1016197
+  }, 
+  {
+    "city": "PLATTE CITY", 
+    "name": "PRICE CHOPPER PLATTE CITY", 
+    "country": "US", 
+    "longitude": -94.76799011230469, 
+    "latitude": 39.35067367553711, 
+    "store_id": 1016303
+  }, 
+  {
+    "city": "SEAL BEACH", 
+    "name": "RALPHS - SEAL BEACH #604", 
+    "country": "US", 
+    "longitude": -118.06970977783203, 
+    "latitude": 33.78139877319336, 
+    "store_id": 1016325
+  }, 
+  {
+    "city": "Happy Valley", 
+    "name": "FRED MEYER HAPPY VALLEY LS #694", 
+    "country": "US", 
+    "longitude": -122.486328125, 
+    "latitude": 45.42692947387695, 
+    "store_id": 1016362
+  }, 
+  {
+    "city": "CLOSTER", 
+    "name": "TARGET CLOSTER T-3235", 
+    "country": "US", 
+    "longitude": -73.95708465576172, 
+    "latitude": 40.970237731933594, 
+    "store_id": 1016353
+  }, 
+  {
+    "city": "CHICAGO", 
+    "name": "TARGET HYDE PARK", 
+    "country": "US", 
+    "longitude": -87.60302734375, 
+    "latitude": 41.79936599731445, 
+    "store_id": 1016364
+  }, 
+  {
+    "city": "Katy", 
+    "name": "KROGER - KATY #122", 
+    "country": "US", 
+    "longitude": -95.7716064453125, 
+    "latitude": 29.817062377929688, 
+    "store_id": 1016369
+  }, 
+  {
+    "city": "Apodaca", 
+    "name": "Sendero La Fe", 
+    "country": "MX", 
+    "longitude": -100.19171142578125, 
+    "latitude": 25.76460075378418, 
+    "store_id": 1016446
+  }, 
+  {
+    "city": "Fishers", 
+    "name": "Kroger Fishers #869", 
+    "country": "US", 
+    "longitude": -85.9187240600586, 
+    "latitude": 39.95907211303711, 
+    "store_id": 1016548
+  }, 
+  {
+    "city": "Cluj", 
+    "name": "Polus Center Cluj", 
+    "country": "RO", 
+    "longitude": 23.533323287963867, 
+    "latitude": 46.75054931640625, 
+    "store_id": 1016373
+  }, 
+  {
+    "city": "Taipei City", 
+    "name": "Zhongshan Tianmu", 
+    "country": "TW", 
+    "longitude": 121.5276107788086, 
+    "latitude": 25.115188598632812, 
+    "store_id": 1016387
+  }, 
+  {
+    "city": "Broomfield", 
+    "name": "King Soopers - Broomfield #129", 
+    "country": "US", 
+    "longitude": -105.00799560546875, 
+    "latitude": 40.00028991699219, 
+    "store_id": 1016404
+  }, 
+  {
+    "city": "Newark", 
+    "name": "KROGER NEWARK 128", 
+    "country": "US", 
+    "longitude": -82.43075561523438, 
+    "latitude": 40.08015441894531, 
+    "store_id": 1016419
+  }, 
+  {
+    "city": "Mexico City", 
+    "name": "Patio Revolucion", 
+    "country": "MX", 
+    "longitude": -99.19131469726562, 
+    "latitude": 19.341928482055664, 
+    "store_id": 1016423
+  }, 
+  {
+    "city": "Calgary", 
+    "name": "HMS HOST @ YYC Departures Transbord", 
+    "country": "CA", 
+    "longitude": -114.01122283935547, 
+    "latitude": 51.13356399536133, 
+    "store_id": 1016429
+  }, 
+  {
+    "city": "Calgary", 
+    "name": "HMS HOST @ YYC Arrivals Internation", 
+    "country": "CA", 
+    "longitude": -114.01122283935547, 
+    "latitude": 51.13356399536133, 
+    "store_id": 1016430
+  }, 
+  {
+    "city": "Calgary", 
+    "name": "HMS HOST @ YYC Departures Internati", 
+    "country": "CA", 
+    "longitude": -114.01122283935547, 
+    "latitude": 51.13356399536133, 
+    "store_id": 1016431
+  }, 
+  {
+    "city": "H\u00e0 N\u1ed9i", 
+    "name": "Starbowl", 
+    "country": "VN", 
+    "longitude": 105.831787109375, 
+    "latitude": 21.00616455078125, 
+    "store_id": 1016480
+  }, 
+  {
+    "city": "Taoyuan City", 
+    "name": "Wenqing A7-Guishan", 
+    "country": "TW", 
+    "longitude": 121.38892364501953, 
+    "latitude": 25.040340423583984, 
+    "store_id": 1016578
+  }, 
+  {
+    "city": "Coatzacoalcos", 
+    "name": "Coatzacoalcos DT", 
+    "country": "MX", 
+    "longitude": -94.47052764892578, 
+    "latitude": 18.136619567871094, 
+    "store_id": 1016852
+  }, 
+  {
+    "city": "Nagoya", 
+    "name": "Nagoya Takinomizu", 
+    "country": "JP", 
+    "longitude": 136.97398376464844, 
+    "latitude": 35.090789794921875, 
+    "store_id": 1016441
+  }, 
+  {
+    "city": "Yamato", 
+    "name": "Yamatoshi Bunka Sozo Kyoten", 
+    "country": "JP", 
+    "longitude": 139.4630889892578, 
+    "latitude": 35.46942138671875, 
+    "store_id": 1016456
+  }, 
+  {
+    "city": "Ottawa", 
+    "name": "62 York Street, Ottawa (Byward M.)", 
+    "country": "CA", 
+    "longitude": -75.69214630126953, 
+    "latitude": 45.42826843261719, 
+    "store_id": 1015880
+  }, 
+  {
+    "city": "Klamath Falls", 
+    "name": "6th & Austin - Klamath Falls", 
+    "country": "US", 
+    "longitude": -121.75299835205078, 
+    "latitude": 42.20883560180664, 
+    "store_id": 1016355
+  }, 
+  {
+    "city": "Mesa", 
+    "name": "Dobson & Loop 202", 
+    "country": "US", 
+    "longitude": -111.86929321289062, 
+    "latitude": 33.43459701538086, 
+    "store_id": 1016356
+  }, 
+  {
+    "city": "Fresno", 
+    "name": "Herndon Ave & Marks", 
+    "country": "US", 
+    "longitude": -119.84709167480469, 
+    "latitude": 36.837581634521484, 
+    "store_id": 1016361
+  }, 
+  {
+    "city": "Rocklin", 
+    "name": "Rocklin & I-80 Rocklin", 
+    "country": "US", 
+    "longitude": -121.22401428222656, 
+    "latitude": 38.78881072998047, 
+    "store_id": 1015487
+  }, 
+  {
+    "city": "Riyadh", 
+    "name": "Northern Ring with Rd Salim Ibn Maq", 
+    "country": "SA", 
+    "longitude": 46.603660583496094, 
+    "latitude": 24.741825103759766, 
+    "store_id": 1015917
+  }, 
+  {
+    "city": "Jakarta", 
+    "name": "Bellezza", 
+    "country": "ID", 
+    "longitude": 106.78229522705078, 
+    "latitude": -6.2211408615112305, 
+    "store_id": 1016363
+  }, 
+  {
+    "city": "Fenouillet", 
+    "name": "Toulouse - La Galerie Espaces Fen", 
+    "country": "FR", 
+    "longitude": 1.4008450508117676, 
+    "latitude": 43.688419342041016, 
+    "store_id": 1016380
+  }, 
+  {
+    "city": "Singapore", 
+    "name": "Our Tampines Hub", 
+    "country": "SG", 
+    "longitude": 103.94097137451172, 
+    "latitude": 1.353808045387268, 
+    "store_id": 1016472
+  }, 
+  {
+    "city": "Chico", 
+    "name": "East & Cohasset", 
+    "country": "US", 
+    "longitude": -121.84494018554688, 
+    "latitude": 39.76079559326172, 
+    "store_id": 1015086
+  }, 
+  {
+    "city": "Indianapolis", 
+    "name": "W 71st and Intech Blvd", 
+    "country": "US", 
+    "longitude": -86.27214050292969, 
+    "latitude": 39.88091278076172, 
+    "store_id": 1015497
+  }, 
+  {
+    "city": "West Linn", 
+    "name": "Willamette & Walling - West Linn", 
+    "country": "US", 
+    "longitude": -122.64314270019531, 
+    "latitude": 45.389060974121094, 
+    "store_id": 1016383
+  }, 
+  {
+    "city": "Kuala Lumpur", 
+    "name": "Petronas Service Stat - Federal Hwy", 
+    "country": "MY", 
+    "longitude": 101.58235931396484, 
+    "latitude": 3.0835399627685547, 
+    "store_id": 1007996
+  }, 
+  {
+    "city": "Lima", 
+    "name": "Paris Jockey Plaza", 
+    "country": "PE", 
+    "longitude": -76.97476196289062, 
+    "latitude": -12.085843086242676, 
+    "store_id": 1014135
+  }, 
+  {
+    "city": "Jubail", 
+    "name": "Jubail Galleria Mall", 
+    "country": "SA", 
+    "longitude": 49.568721771240234, 
+    "latitude": 27.13692855834961, 
+    "store_id": 1015254
+  }, 
+  {
+    "city": "Gumi-si", 
+    "name": "Gumi Jinpyeong DT", 
+    "country": "KR", 
+    "longitude": 128.43099975585938, 
+    "latitude": 36.09564971923828, 
+    "store_id": 1015663
+  }, 
+  {
+    "city": "Concord", 
+    "name": "Treat & Clayton Road", 
+    "country": "US", 
+    "longitude": -121.99313354492188, 
+    "latitude": 37.96456527709961, 
+    "store_id": 1015724
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "Palladium Reserve", 
+    "country": "TR", 
+    "longitude": 29.100069046020508, 
+    "latitude": 40.98650360107422, 
+    "store_id": 1015831
+  }, 
+  {
+    "city": "MIAMI", 
+    "name": "JFC@ JACKSON MEMORIAL", 
+    "country": "US", 
+    "longitude": -80.21060943603516, 
+    "latitude": 25.79140853881836, 
+    "store_id": 1015934
+  }, 
+  {
+    "city": "Ulsan", 
+    "name": "Ulsan City hall Sageori DT", 
+    "country": "KR", 
+    "longitude": 129.31349182128906, 
+    "latitude": 35.5372200012207, 
+    "store_id": 1015965
+  }, 
+  {
+    "city": "Macomb", 
+    "name": "Hy-Vee Macomb #1420", 
+    "country": "US", 
+    "longitude": -90.64845275878906, 
+    "latitude": 40.4586296081543, 
+    "store_id": 1016043
+  }, 
+  {
+    "city": "Huancayo", 
+    "name": "Open Plaza Huancayo", 
+    "country": "PE", 
+    "longitude": -75.12330627441406, 
+    "latitude": -12.034850120544434, 
+    "store_id": 1016124
+  }, 
+  {
+    "city": "Menifee", 
+    "name": "Ralphs Menifee 140", 
+    "country": "US", 
+    "longitude": -117.16900634765625, 
+    "latitude": 33.68413543701172, 
+    "store_id": 1016261
+  }, 
+  {
+    "city": "Leander", 
+    "name": "Safeway 3145 @ Leander", 
+    "country": "US", 
+    "longitude": -97.86480712890625, 
+    "latitude": 30.544771194458008, 
+    "store_id": 1016276
+  }, 
+  {
+    "city": "Chicago", 
+    "name": "Jewel-Osco - Chicago 3514", 
+    "country": "US", 
+    "longitude": -87.6463394165039, 
+    "latitude": 41.94680404663086, 
+    "store_id": 1016294
+  }, 
+  {
+    "city": "Warsaw", 
+    "name": "Reduta", 
+    "country": "PL", 
+    "longitude": 20.951303482055664, 
+    "latitude": 52.21303939819336, 
+    "store_id": 1016311
+  }, 
+  {
+    "city": "Istanbul", 
+    "name": "ACIBADEM NO 190", 
+    "country": "TR", 
+    "longitude": 29.05179786682129, 
+    "latitude": 41.01030731201172, 
+    "store_id": 1016315
+  }, 
+  {
+    "city": "HARRISBURG", 
+    "name": "GIANT HARRISBURG 6539", 
+    "country": "US", 
+    "longitude": -76.80513000488281, 
+    "latitude": 40.30690002441406, 
+    "store_id": 1016354
+  }, 
+  {
+    "city": "Boise", 
+    "name": "Albertsons - Boise #3339", 
+    "country": "US", 
+    "longitude": -116.31324768066406, 
+    "latitude": 43.54518508911133, 
+    "store_id": 1016384
+  }, 
+  {
+    "city": "Seoul", 
+    "name": "Gangnam woosung sageori", 
+    "country": "KR", 
+    "longitude": 127.03092956542969, 
+    "latitude": 37.49210739135742, 
+    "store_id": 1016330
+  }, 
+  {
+    "city": "Valenciennes", 
+    "name": "V2", 
+    "country": "FR", 
+    "longitude": 3.1307780742645264, 
+    "latitude": 50.61827850341797, 
+    "store_id": 1016393
+  }, 
+  {
+    "city": "Mont-Tremblant", 
+    "name": "TOURS DES VOYAGEURS", 
+    "country": "CA", 
+    "longitude": -74.0, 
+    "latitude": 46.2105712890625, 
+    "store_id": 1016400
+  }, 
+  {
+    "city": "Wylie", 
+    "name": "Tom Thumb - Wylie #4239", 
+    "country": "US", 
+    "longitude": -96.55213928222656, 
+    "latitude": 33.006404876708984, 
+    "store_id": 1016405
+  }, 
+  {
+    "city": "Woods Cross", 
+    "name": "Smiths Bountiful #93", 
+    "country": "US", 
+    "longitude": -111.8963623046875, 
+    "latitude": 40.86153030395508, 
+    "store_id": 1016406
+  }, 
+  {
+    "city": "\u5305\u5934\u5e02", 
+    "name": "\u5305\u5934\u82cf\u5b81\u5e7f\u573a\u5e97", 
+    "country": "CN", 
+    "longitude": 109.84320831298828, 
+    "latitude": 40.65712356567383, 
+    "store_id": 1016531
+  }, 
+  {
+    "city": "Ft. Wayne", 
+    "name": "Kroger Ft. Wayne #973", 
+    "country": "US", 
+    "longitude": -85.06509399414062, 
+    "latitude": 41.13481521606445, 
+    "store_id": 1016608
+  }, 
+  {
+    "city": "Ulsan", 
+    "name": "Ulsan Seongnam Samgeori", 
+    "country": "KR", 
+    "longitude": 129.32037353515625, 
+    "latitude": 35.553375244140625, 
+    "store_id": 1016538
+  }, 
+  {
+    "city": "Shoreview", 
+    "name": "KOWALSKI'S @ SHOREVIEW", 
+    "country": "US", 
+    "longitude": -93.1198501586914, 
+    "latitude": 45.07951736450195, 
+    "store_id": 1016545
+  }, 
+  {
+    "city": "MILTON", 
+    "name": "Albertsons - Milton #3113", 
+    "country": "US", 
+    "longitude": -122.29512786865234, 
+    "latitude": 47.25007629394531, 
+    "store_id": 1016606
+  }, 
+  {
+    "city": "Melville", 
+    "name": "North Melville", 
+    "country": "US", 
+    "longitude": -73.4094009399414, 
+    "latitude": 40.81316375732422, 
+    "store_id": 1006706
+  }, 
+  {
+    "city": "Salmiya", 
+    "name": "Salmiya Boulevard", 
+    "country": "KW", 
+    "longitude": 48.07135009765625, 
+    "latitude": 29.334827423095703, 
+    "store_id": 1010342
+  }, 
+  {
+    "city": "London", 
+    "name": "London Bridge-Shard Arcade", 
+    "country": "GB", 
+    "longitude": -0.08748400211334229, 
+    "latitude": 51.50513458251953, 
+    "store_id": 1014763
+  }, 
+  {
+    "city": "Saimai", 
+    "name": "B.Care Medical Center Hospital", 
+    "country": "TH", 
+    "longitude": 100.62430572509766, 
+    "latitude": 13.943408966064453, 
+    "store_id": 1015859
+  }, 
+  {
+    "city": "Staten Island", 
+    "name": "Woodrow Shopping Plaza", 
+    "country": "US", 
+    "longitude": -74.20709991455078, 
+    "latitude": 40.54198455810547, 
+    "store_id": 1015914
+  }, 
+  {
+    "city": "Washington", 
+    "name": "Brookland CUA", 
+    "country": "US", 
+    "longitude": -76.9972915649414, 
+    "latitude": 38.932594299316406, 
+    "store_id": 1016038
+  }, 
+  {
+    "city": "Sapporo", 
+    "name": "Sapporo Asahigaoka", 
+    "country": "JP", 
+    "longitude": 141.3250274658203, 
+    "latitude": 43.04745101928711, 
+    "store_id": 1016866
+  }, 
+  {
+    "city": "Tottori", 
+    "name": "AEON MALL Tottorikita", 
+    "country": "JP", 
+    "longitude": 134.20162963867188, 
+    "latitude": 35.52467727661133, 
+    "store_id": 1016442
+  }, 
+  {
+    "city": "Denpasar", 
+    "name": "Level 21 Mall", 
+    "country": "ID", 
+    "longitude": 115.12496948242188, 
+    "latitude": -8.401140213012695, 
+    "store_id": 1016414
+  }, 
+  {
+    "city": "Rancho Cucamonga", 
+    "name": "Victoria Gardens South Mainstreet", 
+    "country": "US", 
+    "longitude": -117.53384399414062, 
+    "latitude": 34.110565185546875, 
+    "store_id": 1016562
+  }, 
+  {
+    "city": "Port of Spain", 
+    "name": "Movie Towne", 
+    "country": "TT", 
+    "longitude": -61.53271484375, 
+    "latitude": 10.659000396728516, 
+    "store_id": 1016812
+  }, 
+  {
+    "city": "Marina", 
+    "name": "2nd Ave & General Stillwell", 
+    "country": "US", 
+    "longitude": -121.80946350097656, 
+    "latitude": 36.66600036621094, 
+    "store_id": 1010036
+  }, 
+  {
+    "city": "Brockton", 
+    "name": "Brockton, Westgate Drive", 
+    "country": "US", 
+    "longitude": -71.0494155883789, 
+    "latitude": 42.09486389160156, 
+    "store_id": 1013701
+  }, 
+  {
+    "city": "Laval", 
+    "name": "Des Laurentides Blvd & Bellerose E", 
+    "country": "CA", 
+    "longitude": -73.73857116699219, 
+    "latitude": 45.61342239379883, 
+    "store_id": 1014741
+  }, 
+  {
+    "city": "Independence", 
+    "name": "E. 39th and Arrowhead", 
+    "country": "US", 
+    "longitude": -94.36002349853516, 
+    "latitude": 39.048465728759766, 
+    "store_id": 1015654
+  }, 
+  {
+    "city": "Middleton", 
+    "name": "Allen Boulevard", 
+    "country": "US", 
+    "longitude": -89.48661804199219, 
+    "latitude": 43.10343933105469, 
+    "store_id": 1016244
+  }, 
+  {
+    "city": "Chiang Mai", 
+    "name": "Chiangmai Ram Hospital", 
+    "country": "TH", 
+    "longitude": 98.97779846191406, 
+    "latitude": 18.7933406829834, 
+    "store_id": 1016392
+  }, 
+  {
+    "city": "Nantes", 
+    "name": "Beaulieu", 
+    "country": "FR", 
+    "longitude": 1.5347219705581665, 
+    "latitude": 47.20524978637695, 
+    "store_id": 1016496
+  }, 
+  {
+    "city": "Overland Park", 
+    "name": "119th & Glenwood - The Fountains", 
+    "country": "US", 
+    "longitude": -94.66117858886719, 
+    "latitude": 38.91244888305664, 
+    "store_id": 1016413
+  }
+]

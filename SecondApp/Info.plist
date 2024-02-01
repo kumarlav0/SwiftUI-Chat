@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>share document with your friends</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>using album select photo to set your profile and share with friends</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>using face id protect chat from unwanted user</string>
+	<key>NSCameraUsageDescription</key>
+	<string>using camera click photo to set your profile and share with friends</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
