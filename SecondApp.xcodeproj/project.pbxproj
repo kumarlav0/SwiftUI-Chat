@@ -12,6 +12,9 @@
 		060253FD2B346FE1008D2B63 /* ChatConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060253FC2B346FE1008D2B63 /* ChatConstants.swift */; };
 		06348B562B61189100156458 /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = 06348B552B61189100156458 /* CodeScanner */; };
 		0635847C2B502BA400E13141 /* DocumentPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0635847B2B502BA400E13141 /* DocumentPicker.swift */; };
+		06452E972B7B9D0800E3DD96 /* QRCodeGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06452E962B7B9D0800E3DD96 /* QRCodeGenerator.swift */; };
+		06452E9A2B7BA62C00E3DD96 /* UserData.json in Resources */ = {isa = PBXBuildFile; fileRef = 06452E992B7BA62C00E3DD96 /* UserData.json */; };
+		06452E9C2B7BB36800E3DD96 /* QRGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06452E9B2B7BB36800E3DD96 /* QRGenerator.swift */; };
 		06523ED72B3174AA00A92BEE /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06523ED62B3174AA00A92BEE /* TabBarView.swift */; };
 		06523EDB2B3187D200A92BEE /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06523EDA2B3187D200A92BEE /* ProfileView.swift */; };
 		06523EDD2B3187DF00A92BEE /* StoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06523EDC2B3187DF00A92BEE /* StoryView.swift */; };
@@ -50,6 +53,8 @@
 		06D19C982B2AED8100B40BF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D19C972B2AED8100B40BF8 /* Preview Assets.xcassets */; };
 		06D19CA22B2B025400B40BF8 /* ChatListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D19CA12B2B025400B40BF8 /* ChatListViewModel.swift */; };
 		06D19CA42B2B026A00B40BF8 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D19CA32B2B026A00B40BF8 /* UserModel.swift */; };
+		06D28D492B7E346200BC4C8E /* AddNewUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D28D482B7E346200BC4C8E /* AddNewUserView.swift */; };
+		06D28D4C2B7F660E00BC4C8E /* FloatingLabelTextFieldSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 06D28D4B2B7F660E00BC4C8E /* FloatingLabelTextFieldSwiftUI */; };
 		06E113CB2B5E87D500730DDF /* PDFViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E113CA2B5E87D500730DDF /* PDFViewer.swift */; };
 		06E113CD2B5E881F00730DDF /* jokes1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 06E113CC2B5E881F00730DDF /* jokes1.pdf */; };
 		06E210312B3D59D400DBF984 /* NetworkRechablityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E210302B3D59D400DBF984 /* NetworkRechablityView.swift */; };
@@ -86,6 +91,9 @@
 		060253F92B34693D008D2B63 /* EmojiGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiGridView.swift; sourceTree = "<group>"; };
 		060253FC2B346FE1008D2B63 /* ChatConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatConstants.swift; sourceTree = "<group>"; };
 		0635847B2B502BA400E13141 /* DocumentPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentPicker.swift; sourceTree = "<group>"; };
+		06452E962B7B9D0800E3DD96 /* QRCodeGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeGenerator.swift; sourceTree = "<group>"; };
+		06452E992B7BA62C00E3DD96 /* UserData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = UserData.json; sourceTree = "<group>"; };
+		06452E9B2B7BB36800E3DD96 /* QRGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRGenerator.swift; sourceTree = "<group>"; };
 		06523ED62B3174AA00A92BEE /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		06523EDA2B3187D200A92BEE /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		06523EDC2B3187DF00A92BEE /* StoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryView.swift; sourceTree = "<group>"; };
@@ -123,6 +131,7 @@
 		06D19C972B2AED8100B40BF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		06D19CA12B2B025400B40BF8 /* ChatListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListViewModel.swift; sourceTree = "<group>"; };
 		06D19CA32B2B026A00B40BF8 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		06D28D482B7E346200BC4C8E /* AddNewUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewUserView.swift; sourceTree = "<group>"; };
 		06E113CA2B5E87D500730DDF /* PDFViewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFViewer.swift; sourceTree = "<group>"; };
 		06E113CC2B5E881F00730DDF /* jokes1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = jokes1.pdf; sourceTree = "<group>"; };
 		06E2102F2B3D598F00DBF984 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
@@ -145,6 +154,7 @@
 			files = (
 				06348B562B61189100156458 /* CodeScanner in Frameworks */,
 				065403D52B59595A00DBEF9A /* StoryUI in Frameworks */,
+				06D28D4C2B7F660E00BC4C8E /* FloatingLabelTextFieldSwiftUI in Frameworks */,
 				06644BE62B4EDDD500D9137F /* ImageViewerRemote in Frameworks */,
 				06644BE42B4EDDD500D9137F /* ImageViewer in Frameworks */,
 			);
@@ -177,8 +187,17 @@
 				06644BDE2B4EABDF00D9137F /* ActivityViewController.swift */,
 				06644BE02B4EC90500D9137F /* CameraController.swift */,
 				0635847B2B502BA400E13141 /* DocumentPicker.swift */,
+				06452E9B2B7BB36800E3DD96 /* QRGenerator.swift */,
 			);
 			path = "Helper Files";
+			sourceTree = "<group>";
+		};
+		06452E982B7BA5F100E3DD96 /* MockData */ = {
+			isa = PBXGroup;
+			children = (
+				06452E992B7BA62C00E3DD96 /* UserData.json */,
+			);
+			path = MockData;
 			sourceTree = "<group>";
 		};
 		06523ED82B31877400A92BEE /* TabBarView */ = {
@@ -316,6 +335,8 @@
 				06523EDA2B3187D200A92BEE /* ProfileView.swift */,
 				06FC68DE2B4C2C0700F7519F /* QRCodeView.swift */,
 				06BDE84F2B6A7BC800F1BAA1 /* LocationsView.swift */,
+				06452E962B7B9D0800E3DD96 /* QRCodeGenerator.swift */,
+				06D28D482B7E346200BC4C8E /* AddNewUserView.swift */,
 			);
 			path = ProfileModule;
 			sourceTree = "<group>";
@@ -414,6 +435,7 @@
 		06D19C8F2B2AED7F00B40BF8 /* SecondApp */ = {
 			isa = PBXGroup;
 			children = (
+				06452E982B7BA5F100E3DD96 /* MockData */,
 				06BDE84D2B6A7B5200F1BAA1 /* locations.json */,
 				06E2102F2B3D598F00DBF984 /* Info.plist */,
 				06E113CC2B5E881F00730DDF /* jokes1.pdf */,
@@ -510,6 +532,7 @@
 				06644BE52B4EDDD500D9137F /* ImageViewerRemote */,
 				065403D42B59595A00DBEF9A /* StoryUI */,
 				06348B552B61189100156458 /* CodeScanner */,
+				06D28D4B2B7F660E00BC4C8E /* FloatingLabelTextFieldSwiftUI */,
 			);
 			productName = SecondApp;
 			productReference = 06D19C8D2B2AED7F00B40BF8 /* SecondApp.app */;
@@ -546,6 +569,7 @@
 				06644BE22B4EDDD500D9137F /* XCRemoteSwiftPackageReference "swiftui-image-viewer" */,
 				065403D32B59595A00DBEF9A /* XCRemoteSwiftPackageReference "StoryUI" */,
 				06348B542B61189100156458 /* XCRemoteSwiftPackageReference "CodeScanner" */,
+				06D28D4A2B7F660E00BC4C8E /* XCRemoteSwiftPackageReference "FloatingLabelTextFieldSwiftUI" */,
 			);
 			productRefGroup = 06D19C8E2B2AED7F00B40BF8 /* Products */;
 			projectDirPath = "";
@@ -573,6 +597,7 @@
 				06E113CD2B5E881F00730DDF /* jokes1.pdf in Resources */,
 				06D19C982B2AED8100B40BF8 /* Preview Assets.xcassets in Resources */,
 				06BDE84E2B6A7B5200F1BAA1 /* locations.json in Resources */,
+				06452E9A2B7BA62C00E3DD96 /* UserData.json in Resources */,
 				06D19C952B2AED8100B40BF8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -615,6 +640,7 @@
 				065F84192B35CBA700B79046 /* LoginView.swift in Sources */,
 				06855D022B580FA400935758 /* StoryModel.swift in Sources */,
 				0674CD132B2C7F2300A9A2F5 /* UserCellView.swift in Sources */,
+				06452E972B7B9D0800E3DD96 /* QRCodeGenerator.swift in Sources */,
 				06D19C932B2AED7F00B40BF8 /* ChatHomeView.swift in Sources */,
 				06E210312B3D59D400DBF984 /* NetworkRechablityView.swift in Sources */,
 				06855D052B58109F00935758 /* StoryViewModel.swift in Sources */,
@@ -627,6 +653,8 @@
 				06BDE8502B6A7BC800F1BAA1 /* LocationsView.swift in Sources */,
 				068470B52B32E7CA00DF5BD6 /* ProfileViewModel.swift in Sources */,
 				0674CD112B2C6BAC00A9A2F5 /* ConversationView.swift in Sources */,
+				06D28D492B7E346200BC4C8E /* AddNewUserView.swift in Sources */,
+				06452E9C2B7BB36800E3DD96 /* QRGenerator.swift in Sources */,
 				065F84102B35A1D800B79046 /* CallDetail.swift in Sources */,
 				060253FD2B346FE1008D2B63 /* ChatConstants.swift in Sources */,
 			);
@@ -937,6 +965,14 @@
 				minimumVersion = 2.0.0;
 			};
 		};
+		06D28D4A2B7F660E00BC4C8E /* XCRemoteSwiftPackageReference "FloatingLabelTextFieldSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -959,6 +995,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 06644BE22B4EDDD500D9137F /* XCRemoteSwiftPackageReference "swiftui-image-viewer" */;
 			productName = ImageViewerRemote;
+		};
+		06D28D4B2B7F660E00BC4C8E /* FloatingLabelTextFieldSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 06D28D4A2B7F660E00BC4C8E /* XCRemoteSwiftPackageReference "FloatingLabelTextFieldSwiftUI" */;
+			productName = FloatingLabelTextFieldSwiftUI;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

@@ -25,14 +25,14 @@ class LocationsViewModel: ObservableObject {
     init() {
         loadLocations()
     }
-
+    
     func loadLocations() {
-            if let url = Bundle.main.url(forResource: "locations", withExtension: "json"),
-               let data = try? Data(contentsOf: url),
-               let decodedLocations = try? JSONDecoder().decode([Location].self, from: data) {
-                self.locations = decodedLocations
-            }
+        if let url = Bundle.main.url(forResource: "locations", withExtension: "json"),
+           let data = try? Data(contentsOf: url),
+           let decodedLocations = try? JSONDecoder().decode([Location].self, from: data) {
+            self.locations = decodedLocations
         }
+    }
 }
 
 struct LocationsView: View {

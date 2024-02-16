@@ -13,25 +13,46 @@ struct ConversationView: View {
     @StateObject var conversationViewModel = ConversationViewModel()
     @State private var voiceRecordingStarted = false
     
+    @State var msgCount = 1
+    
     @State private var scrollToBottomVisible = false
     @State private var isScrolledToBottom = true
     
     var body: some View {
         NavigationStack {
             VStack {
-                List(conversationViewModel.allConversation, id: \.messageId) { message in
-                    ChatBubble(message: message)
-                        .listRowBackground(Color.clear)
-                        .listRowSeparator(.hidden)
-                        .listRowInsets(EdgeInsets(top: 0, leading: 0, bottom: 25, trailing: 0))
-                        .padding(0)
-                        .scaleEffect(x: 1, y: -1)
-                        .onChange(of: conversationViewModel.allConversation.last?.messageId) { _ in
-                            isScrolledToBottom = true
+                List {
+                    ForEach(conversationViewModel.allGroupedMessage, id: \.groupId) { groupedMessage in                        
+                        Section(footer:
+                                    VStack {
+                            Spacer()
+                            Text(groupedMessage.title)
+                                .frame(maxWidth: .infinity, alignment: .center)
+                                .font(.headline)
+                                .foregroundColor(.gray)
+                                .background(.black)
+                                .padding(10)
+                                .containerShape(Ellipse())
+                            Spacer()
                         }
-                    
+                            .frame(maxWidth: .infinity) // Expand VStack to fill width of section header
+                        .scaleEffect(x: 1, y: -1)
+                        ) {
+                            ForEach(groupedMessage.messages, id: \.messageId) { message in
+                                ChatBubble(message: message)
+                                    .listRowBackground(Color.clear)
+                                    .listRowSeparator(.hidden)
+                                    .listRowInsets(EdgeInsets(top: 0, leading: 0, bottom: 25, trailing: 0))
+                                    .padding(0)
+                                    .scaleEffect(x: 1, y: -1)
+                                    .onChange(of: conversationViewModel.allGroupedMessage.last?.groupId) { _ in
+                                        isScrolledToBottom = true
+                                    }
+                            }
+                        }
+                    }
                 }
-                .listStyle(.plain)
+                .listStyle(.grouped)
                 .padding(5)
                 .scrollIndicators(.hidden)
                 .onTapGesture {
@@ -120,7 +141,7 @@ struct ConversationView: View {
             }
         }
         .onAppear {
-            startTimer()
+            
         }
         .onDisappear {
             stopTimer()
@@ -138,11 +159,22 @@ extension ConversationView {
     }
     
     private func startTimer() {
-        conversationViewModel.typingTimer = Timer.scheduledTimer(withTimeInterval: 4, repeats: true) { timer in
+        conversationViewModel.typingTimer = Timer.scheduledTimer(withTimeInterval: 10, repeats: true) { timer in
             self.startTyping()
-            DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
-                self.conversationViewModel.getTextessage("Hi, this is me.....")
+            DispatchQueue.main.asyncAfter(deadline: .now() + 4) {
+                if msgCount == 1 {
+                    self.conversationViewModel.getTextessage("Hi, What are you doing now...")
+                } else  if msgCount == 2 {
+                    self.conversationViewModel.getTextessage("Dud, We are planning to go to Dubai this weekend.")
+                } else  if msgCount == 3 {
+                    self.conversationViewModel.getTextessage("Yeah, if you have time you can join us for this trip, will have lots of fun and adventure bro......... ")
+                } else  if msgCount == 4 {
+                    self.conversationViewModel.getTextessage("Oh Wow, thats Amazing bro...")
+                } else {
+                    self.conversationViewModel.getTextessage("Ok, Lets catchup tomorrow. will discuss more on this.")
+                }
                 self.stopTyping()
+                self.msgCount += 1
             }
         }
     }

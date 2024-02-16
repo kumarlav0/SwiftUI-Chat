@@ -10,10 +10,10 @@ import UIKit
 import CodeScanner
 
 struct QRCodeView: View {
-    @Binding var closeWindow: Bool
+    @Binding var qrCodeViewOpenned: Bool
+    @Binding var scannedQRCodeData: String?
     @State private var isSharePresented: Bool = false
     @State private var isShowingScanner = false
-    @State private var scannedCode: String?
     
     var body: some View {
        
@@ -30,13 +30,8 @@ struct QRCodeView: View {
                             .fontWeight(.bold)
                             .padding(.top, 45)
                         Spacer()
-                        Image("qrcode")
-                            .resizable()
-                            .frame(width: 200, height: 200)
-                            .aspectRatio(contentMode: .fit)
-                            .cornerRadius(12)
-                            .padding(.bottom, 30)
-                        
+                        QRCodeGenerator(text: QRGenerator.shared.loadUserDataAsString() ?? "")
+                            
                     }
                   
                     .frame(width: 300, height: 300)
@@ -48,7 +43,7 @@ struct QRCodeView: View {
                             .resizable()
                             .frame(width: 66, height: 66)
                             .aspectRatio(contentMode: .fit)
-                            .clipShape(Circle())
+                            .clipShape(RoundedRectangle(cornerRadius: 33))
                             .padding(.top, 40)
                         
                     })
@@ -70,7 +65,8 @@ struct QRCodeView: View {
                     .sheet(isPresented: $isSharePresented, onDismiss: {
                         print("Dismiss")
                     }, content: {
-                        ActivityViewController(activityItems: [UIImage(named: "qrcode") as Any])
+                        let qrCode = QRGenerator.shared.getQRCodeFrom(text: QRGenerator.shared.loadUserDataAsString() ?? "")
+                        ActivityViewController(activityItems: [qrCode as Any])
                     })
                 }
             }
@@ -84,9 +80,16 @@ struct QRCodeView: View {
                     }
                     .sheet(isPresented: $isShowingScanner) {
                         CodeScannerView(codeTypes: [.qr], manualSelect: true, showViewfinder: true, manualTorch: true) { response in
+                            print("QR Scanned Result", response)
                             if case let .success(result) = response {
-                                scannedCode = result.string
                                 isShowingScanner.toggle()
+                                DispatchQueue.main.asyncAfter(deadline: .now()+1) {
+                                    scannedQRCodeData = result.string
+                                    qrCodeViewOpenned.toggle()
+                                }
+                            } else if case let .failure(error) = response {
+                                print("Error occurred: \(error)")
+                                
                             }
                         }
                     }
@@ -94,7 +97,7 @@ struct QRCodeView: View {
                 
                 ToolbarItem(placement: .navigationBarLeading) {
                     Button {
-                        closeWindow.toggle()
+                        qrCodeViewOpenned.toggle()
                     } label: {
                         Text("Cancel")
                             .foregroundColor(.red)
@@ -103,25 +106,10 @@ struct QRCodeView: View {
             }
         }
     }
-    
 }
 
 struct QRCodeView_Previews: PreviewProvider {
     static var previews: some View {
-        QRCodeView(closeWindow: .constant(false))
+        QRCodeView(qrCodeViewOpenned: .constant(false), scannedQRCodeData: .constant(""))
     }
 }
-
-/**
- codeTypes: [AVMetadataObject.ObjectType],
- scanMode: ScanMode = .once,
- manualSelect: Bool = false,
- scanInterval: Double = 2.0,
- showViewfinder: Bool = false,
- simulatedData: String = "",
- shouldVibrateOnSuccess: Bool = true,
- isTorchOn: Bool = false,
- isGalleryPresented: Binding<Bool> = .constant(false),
- videoCaptureDevice: AVCaptureDevice? = AVCaptureDevice.bestForVideo
- 
- */

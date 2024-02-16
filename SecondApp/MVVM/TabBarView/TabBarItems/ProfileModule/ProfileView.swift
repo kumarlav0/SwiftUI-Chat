@@ -13,6 +13,8 @@ struct ProfileView: View {
     @State var openEditView: Bool = false
     @State var showAlert: Bool = false
     @State var qrCodeViewOpenned: Bool = false
+    @State private var scannedQRCodeData: String?
+    @State var openAddNewContact: Bool = false
     
     var body: some View {
         NavigationStack {
@@ -50,7 +52,7 @@ struct ProfileView: View {
                         .background(.gray)
                         .clipShape(Circle())
                         .sheet(isPresented: $qrCodeViewOpenned) {
-                            QRCodeView(closeWindow: $qrCodeViewOpenned)
+                            QRCodeView(qrCodeViewOpenned: $qrCodeViewOpenned, scannedQRCodeData: $scannedQRCodeData)
                         }
                     }
                     
@@ -98,6 +100,19 @@ struct ProfileView: View {
             .navigationTitle("Profile")
             .sheet(isPresented: $openEditView) {
                 EditProfileDetailsView()
+            }
+            .onChange(of: scannedQRCodeData) { newValue in
+                if let scannedData = newValue {
+                    print("QR Value::", scannedData)
+                    DispatchQueue.main.asyncAfter(deadline: .now()+0.5) {
+                        openAddNewContact.toggle()
+                    }
+                }
+            }
+            .sheet(isPresented: $openAddNewContact) {
+                if let jsonString = scannedQRCodeData, let user = QRGenerator.shared.getContactDataFrom(qrCode: jsonString) {
+                    AddNewUserView(fullName: user.userName, mobileNumber: user.mobileNumber, email: user.email, address: user.address, imageURL: user.profilePic, closeView: $openAddNewContact)
+                }
             }
         }
     }

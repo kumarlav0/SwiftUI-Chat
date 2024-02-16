@@ -10,6 +10,15 @@
       }
     },
     {
+      "identity" : "floatinglabeltextfieldswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI",
+      "state" : {
+        "revision" : "2f69aac37adc5f7dfd89cac10f1c8dff3219fd49",
+        "version" : "5.0.0"
+      }
+    },
+    {
       "identity" : "storyui",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tiskender2/StoryUI",

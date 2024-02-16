@@ -175,3 +175,11 @@ struct GroupedMessage {
     var date: Date
     var title: String
 }
+
+struct ContactData: Codable {
+    let userName: String
+    let mobileNumber: String
+    let email: String
+    let address: String
+    let profilePic: String
+}
